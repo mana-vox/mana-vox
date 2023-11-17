@@ -1,0 +1,40 @@
+LOGDNA_KEY=6a1607e13381f10c0a39f644369a9a31
+LOGDNA_URL=https://logs.eu-de.logging.cloud.ibm.com/logs/ingest
+# For local testing, it's better to disable basic auth api keys
+API_KEYS_ADMIN=
+API_KEYS_READ_ONLY=
+SWAGGER_AUTH_USERNAME=
+SWAGGER_AUTH_PASSWORD=
+# Uncomment to use database on IBM Cloud
+DB_CONNECTION_STRING=postgres://ibm_cloud_a3e612ae_3084_47ef_aaec_de36f8fd3f1b:70fb478d07a3fb097de6d01ec0c4f2d916b6ad5607f1346d3cb063ae987d33d8@830e00f9-ea72-48c4-844e-225187f5869e.ca37437f079js7faako0.databases.appdomain.cloud:32193/ibmclouddb?sslmode=require
+# Uncomment to use local database
+# DB_CONNECTION_STRING=postgresql://ibm-cloud-base-user:p0stgre5@127.0.0.1:5432/manadb
+
+
+WNLU_VERSION=2020-05-05
+WNLU_URL=<NLU_URL>
+WNLU_API_KEY=<NLU_API_KEY>
+
+WA_VERSION=2020-05-05
+WA_URL=https://api.eu-de.assistant.watson.cloud.ibm.com/instances/87555276-9b1d-4f45-b63c-04192c1a2fbd
+WA_WORKSPACE_ID=3f7d6e94-dad7-4546-81f0-1abc4111fc78
+WA_USER_ID=mana-user
+WA_API_KEY=5ttuFhy_38yzfNbwn2mZigAztjuC0y1thAYySB4soHhH
+
+WT_VERSION=2020-05-05
+WT_URL=https://api.eu-de.language-translator.watson.cloud.ibm.com/instances/93b1a794-1126-4fdc-b756-82221bf58e39
+WT_API_KEY=MJPNKEPnXAcMYGuGCMdWpq-C2hZmekZWQ9LXYAWTgfd0
+
+
+
+TW_CONSUMER_KEY=NQMPwsuVP2tHW2rTunFLegr9W
+TW_CONSUMER_SECRET=MBOgdiwBNrDSJjIfPRws5gPNG5tI1ugyvcogUxJea9MsScptaT
+TW_ACCESS_TOKEN_KEY=3097126347-edLI6Fl2TYSg9UgvWMEfMvVc9Q4jtg8IMeyqG4j
+TW_ACCESS_TOKEN_SECRET=W3e2r0J9yNBvxw6fjih44esD7uN7d1vLlo21UhuZxeQG8
+# Additional variables to override those defined in database
+# MAX_TWEETS=
+# TRUSTED_SOURCE_ORIGINS_THRESHOLD=
+# TRUSTED_SOURCE_GROUPS_THRESHOLD=
+# SOURCE_CANDIDATE_THRESHOLD=
+# USE_NLU_FOR_COMPANY_DETECTION=
+

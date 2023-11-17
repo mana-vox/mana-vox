@@ -1,0 +1,2539 @@
+{
+  "name": "MANA Orchestrator",
+  "intents": [
+    { 
+      "intent": "Non_MANA",
+      "examples": [
+        {
+          "text": "Two years after Asia Pulp & Paper (APP) announced a new “forest conservation” policy, APP’s pledge to halt forest clearing has held, but its forests are still disappearing"
+        },
+        {
+          "text": "Jakarta, Indonesia – Two years after Asia Pulp & Paper (APP) announced a new “forest conservation” policy, APP’s pledge to halt forest clearing has held, but its forests are still disappearing"
+        },
+        {
+          "text": " “The decision to challenge the RSPO board’s suspension decision is a difficult and painful one for us to take,” said Dato’ Lee Yeow Chor, IOI’s CEO, of the suit filed in Zurich, Switzerland, where the roundtable has its seat"
+        },
+        {
+          "text": "APP’s new US$3 billion mega-scale mill in Ogan Komering Ilir (OKI), South Sumatra, caused outrage among NGOs in April 2016, when a report revealed that APP would not be able to source the required wood for all its mills in Sumatra without breaking its own zero-deforestation commitment"
+        },
+        {
+          "text": "Meanwhile, Paseo, which operates as a separate consumer-facing brand to its parent, has stated in its communications in social and other media that it has a “zero deforestation” and “zero burning” policy"
+        },
+        {
+          "text": "BREAKING: The world’s largest sustainable palm oil authority just sanctioned Pepsi’s business partner, infamous palm oil villain Indofood, for abusing workers on its plantations"
+        },
+        {
+          "text": " We have had a ‘Zero Burning’ policy in our supply chain since 1996, and a zero deforestation policy since 2013"
+        },
+        {
+          "text": " WWF had welcomed APP’s 2014 announcement to restore and conserve 1 million hectares of tropical ecosystems beyond legal requirements as the right measure to address the company legacy of deforestation of an estimated 2 million hectares of tropical forest"
+        },
+        {
+          "text": " Sign the petition to urge them into action!Nestlé and Pepsi's palm oil business partner Indofood is the worst of the worst when it comes to producing palm oil"
+        },
+        {
+          "text": "A number of PR firms were approached, including those on the paper firm’s global roster of public relations advisors, but the opportunity was passed up, Mumbrella understands"
+        },
+        {
+          "text": "Asia Pulp & Paper’s managing director of sustainability Aida Greenbury responded to Mumbrella’s questions about the Paseo brief this morning by saying that the company’s PR activity in Singapore is led by Cohn & Wolfe and there is “currently no intention to engage other PR firms"
+        },
+        {
+          "text": "Greenbury pointed to the APP’s recent communications, which include two stories on how the company is helping its suppliers put out fires in South Sumatra and has brought in international fire specialists to help stop the forest land burning"
+        },
+        {
+          "text": " Mumbrella interviewed Greenbury in Jakarta in January this year about the company’s approach to communications around its newly claimed green credentials"
+        },
+        {
+          "text": "In March, IOI lost its sustainability certification from the world’s largest association for ethical palm oil production over allegations of environmental destruction in its Indonesian operations"
+        },
+        {
+          "text": " While many of the biggest palm oil producers have publicly committed to eliminate deforestation, peatlands conversion and human rights abuses from their supply chains, the pledges are often vague, and no major firm can show it has actually achieved its goal"
+        },
+        {
+          "text": " [3] This would never have even been allowed in Europe!Unilever is a European company, so as Europeans we are uniquely placed to speak out against this double-standard, and to hold Unilever to account"
+        },
+        {
+          "text": "Update : 29 January 2019 - We’ve made a new video exposing Pepsi's ties to conflict palm oil"
+        },
+        {
+          "text": "It’s our chance to hold Pepsi to its well-publicised sustainable palm oil promises"
+        },
+        {
+          "text": " Can you share it and help make it viral?This is more urgent than ever as we've just heard that Indofood is abandoning international standards for sustainable palm oil"
+        },
+        {
+          "text": " Together, we pressured the world’s leading palm oil certification body to respond"
+        },
+        {
+          "text": " And when 150,000 SumOfUs members put pressure on Pepsi’s departing CEO last month, Pepsi responded and stopped sourcing palm oil from Indofood -- but failed to cut ties completely, keeping its business partnership in Indonesia"
+        },
+        {
+          "text": "While we're still pushing for the RSPO to suspend certification for all Indofood's operations, these sanctions are clear evidence that Pepsi must end its joint venture partnership with Indofood -- if its ‘sustainable’ palm oil policy is to retain any scrap of credibility"
+        },
+        {
+          "text": "Together, we’ve forced some of the palm oil industry’s biggest players to change their destructive ways before"
+        },
+        {
+          "text": "The Roundtable for Sustainable Palm Oil (RSPO), a body set up by industry and NGOs to address environmental concerns about the commodity’s production, confirmed it had been served with a lawsuit by the Malaysian palm giant, IOI"
+        },
+        {
+          "text": "  This impunity could end soon! The palm oil industry’s main certification body, the Roundtable on Sustainable Palm Oil (RSPO) could finally kick the rogue company off its certification scheme when it meets next week, so we need to act fast"
+        },
+        {
+          "text": " The snack food giants co-brand products in the South Asian market, and profit from lucrative Joint Venture Partnerships with Indofood -- cheating on their palm oil commitments"
+        },
+        {
+          "text": "And we did it! The RSPO's report on Indofood confirmed:Female workers are paid less than men, do not receive equal job benefits as men, and are not entitled to maternity leave"
+        },
+        {
+          "text": " Getting the industry’s main certification scheme to suspend Indofood could force Nestlé and Pepsi to take strong action against Indofood, or risk public backlash"
+        },
+        {
+          "text": " The exposure and media fall-out forced Nestlé to cut ties with the Guatemalan palm oil offender! The RSPO often fails to enforce its own standards, but if we pile on the pressure it could be forced to sanction Indofood"
+        },
+        {
+          "text": " Last year a huge SumOfUs petition shone light on another one of Nestlé’s dodgy palm oil partners -- REPSA in Guatemala"
+        },
+        {
+          "text": "One of the world’s largest palm oil producers is suing the green body that suspended its sustainability certification last month because of allegations it had deforested Indonesian rainforests"
+        },
+        {
+          "text": "”Malaysian and Indonesian companies dominate global palm oil production, but have been linked to deforestation and slash-and-burn clearance methods that contributed to the "
+        },
+        {
+          "text": " But internal communications from Datuk Darrel Webber, CEO of the RSPO, show that the palm oil producer told him: “IOI has suffered commercial and reputational losses as a result of this injustice"
+        },
+        {
+          "text": "Palm oil is the most widely-used vegetable oil and found in everything from margarine and biscuits to soap and shampoo"
+        },
+        {
+          "text": "IOI was suspended by the RSPO in early April after the allegations of wrongdoing, leading major buyers including Unilever, Mars, Kelloggs and Nestle to cut back on the palm oil they buy from the company"
+        },
+        {
+          "text": " IOI owns Europe’s largest palm oil refinery and is such a major player that the RSPO warned of a disruption to supplies of sustainable palm oil following the suspension"
+        },
+        {
+          "text": "Mars and Kellogg’s stressed their sustainable palm oil policies, while Procter & Gamble said that it had told suppliers about its responsible sourcing policy"
+        },
+        {
+          "text": "PepsiCo uses a staggering 457,200 metric tons of palm oil every year for products such as Quaker Chewy Granola Bars, Lay's potato chips, and Cheetos"
+        },
+        {
+          "text": " But none of that talk matters when we know PepsiCo’s palm oil suppliers have been bulldozing rainforests in the Leuser Ecosystem as recently as last month"
+        },
+        {
+          "text": " Let’s tell PepsiCo we won’t rest until its palm oil progress reports show real action, not just empty talk"
+        },
+        {
+          "text": "While PepsiCo has said that it is commited to using sustainable palm oil, they haven't actually done anything to back up their commitment"
+        },
+        {
+          "text": " They've been accidentally caught in snares laid by plantation workers for small game, but also purposefully hurt by palm oil plantation owners who consider them pests"
+        },
+        {
+          "text": " Many HSA Group palm oil companies are members of the RSPO, although PT MJR and the other HSA Group concessions in this district are not"
+        },
+        {
+          "text": "[4]Although PT MJR is not yet producing palm oil, two other HSA subsidiary companies – Arma Group and Pacific Oils & Fats – supplied palm oil to Mars, Nestlé, PepsiCo and Unilever, according to supply chain information released by the brands earlier this year"
+        },
+        {
+          "text": " Together, we’ve shown we have the power to push major brands -- including PepsiCo -- to adopt no deforestation policies"
+        },
+        {
+          "text": "But in the last 40 years, half of the forest where the elephants live has been cut down for palm oil plantations"
+        },
+        {
+          "text": " As one of the largest snack food companies in the world, they have the power to significantly reduce the demand for palm oil and help save the Borneo pygmy elephants from extinction"
+        },
+        {
+          "text": " All they have to do is follow the lead of companies like Kellogg's and Mars, and stop using conflict palm oil"
+        },
+        {
+          "text": " Now, PepsiCo is trying to sweep our concerns under the rug with a deceptive Palm Oil “Progress” Report that’s full of empty promises"
+        },
+        {
+          "text": "We’ve created a PR nightmare for PepsiCo by shining a spotlight on its ongoing ties to conflict palm oil production"
+        },
+        {
+          "text": "\"Like other companies in the palm oil sector, GAR is talking a good game on paper, but all evidence shows that their destructive practices continue"
+        },
+        {
+          "text": " “Failure to do so will expose Wilmar’s financiers to unacceptable human rights and reputational risks, leaving them with no choice but to stay away from this and future deals"
+        },
+        {
+          "text": " With partners like Rainforest Action Network keeping eyes on the ground, concerned consumers across the world know PepsiCo is lying to our faces, promising sustainable palm oil while it buys from producers linked to deforestation and worker exploitation"
+        },
+        {
+          "text": "The plantation is operated by the Ivorian firm SIFCA, which Wilmar owns a significant stake in and advises on palm oil operations"
+        },
+        {
+          "text": " The report is filled with a lot of talk about “certified” sustainability and a conflict palm oil-free promise"
+        },
+        {
+          "text": " It’s time PepsiCo end this deceptive greenwashing campaign and take real action to root out conflict palm oil from its supply chain"
+        },
+        {
+          "text": "The findings come as a delegation from the Indonesian government arrives in Europe to defend the palm oil industry, in response to moves by European Parliament to discourage the use of palm oil in biofuels on environmental grounds"
+        },
+        {
+          "text": "APP’s New Pulp Mill Endangers Indonesia’s Climate Change CommitmentsAsia Pulp & Paper’s $3 billion mill locks in high carbon emissions and fire threat for decades"
+        },
+        {
+          "text": "\"Banks and investors must examine the full range of environmental, social, reputational, legal and market risks prevalent in the palm oil sector\", warns a new alert from the Banktrack Network"
+        },
+        {
+          "text": "The syndicate is acting for Singapore-registered Golden Agri-Resources (GAR) - one of the world's largest palm oil companies and a part of the Sinar Mas Group - according to a Debtwire report last week"
+        },
+        {
+          "text": " A complaint made to the Round Table on Sustainable Palm Oil (RSPO) was upheld this month, finding GAR to be in violation of its certification standards and procedures"
+        },
+        {
+          "text": "In response to the community’s concerns, BNP Paribas informed Inclusive Development International and Green Advocates that Wilmar was conducting “an on-the-ground assessment” of the plantation"
+        },
+        {
+          "text": " GAR has been among the early adopters in a wave of company policies that pledge to protect forests, peatlands, and human rights, indicating the company's commitment to become a more responsible business"
+        },
+        {
+          "text": "Another recent study into GAR's palm oil operations with its Liberian subsidiary Golden Veroleum Liberia Inc"
+        },
+        {
+          "text": " When the plantation begins producing on a significant scale in the near future, Wilmar is expected to distribute the palm oil through its global supply chain"
+        },
+        {
+          "text": " In 2014, more than 21 oil palm companies were operating there and around 20 other companies were in the late stages of getting permits to join in"
+        },
+        {
+          "text": " shows that the company's social engagement is seriously flawed in both policy and practice, leading to vague, inadequate and potentially unenforceable promises of development benefits, while risking the permanent loss of, and damage to, community lands, natural resources, livelihoods and cultures"
+        },
+        {
+          "text": " Communities affected by the Maryland Oil Palm Plantation in southern Liberia have called on banks to refrain from joining the loan unless Wilmar commits to remedial action to address their grievances"
+        },
+        {
+          "text": "Must do better! Banks and investors must ensure that GAR actively addresses these problems prior to providing financial services or investment, the groups say - and while promises of good intentions are welcome, they must be matched by performance: \"A strong palm oil commitment is an important first step towards being a responsible company, but banks and investors should not assume that companies with strong palm oil commitments in place are free of environmental, social, reputational, legal and market risks"
+        },
+        {
+          "text": " SIFCA, which has roots in coffee and cocoa production, leaned heavily on Wilmar and another Singaporean palm oil giant, Olam, to get the plantation up and running"
+        },
+        {
+          "text": " The signatories sent the letter after learning that Wilmar had tapped seven banks, including Roundtable on Sustainable Palm Oil member HSBC, to arrange the $1"
+        },
+        {
+          "text": " But evidence from the ground shows that Daewoo controls a larger land area for oil palm plantations than what is publicly announced on its website"
+        },
+        {
+          "text": " In 2010, after it merged with POSCO, one of South Korea’s biggest steel companies, Daewoo International began cooperating with the Korea Rural Community Corporation, a public enterprise established in 2000 to develop an overseas food supply for South Korea"
+        },
+        {
+          "text": "“Brands have been talking about cleaning up their palm oil for over a decade"
+        },
+        {
+          "text": " Their plan was to grow corn and oil palm in four regions of the island for shipment back to South Korea to produce animal feed and biofuel respectively"
+        },
+        {
+          "text": "[2]“After destroying much of the rainforests of Sumatra and Kalimantan, the palm oil industry is now pushing into new frontiers like Papua"
+        },
+        {
+          "text": " “We will be protesting outside the conference centre and targeting the companies which have been invited to speak,” he said"
+        },
+        {
+          "text": "Up in Smoke: Failures in Wilmar’s promise to clean up the palm oil business8 DECEMBER 2015A large number of forest fires have been discovered on Indonesian plantations owned by global palm oil companies Bumitama and Wilmar International"
+        },
+        {
+          "text": "This case also raises serious questions for the Roundtable on Sustainable Palm Oil (RSPO)"
+        },
+        {
+          "text": " Photos and video taken in March and April 2018 show massive deforestation in PT MJR, a palm oil concession controlled by the Hayel Saeed Anam Group (HSA),[3] including in an area zoned for protection by the Indonesian government in response to the devastating forest fires in 2015"
+        },
+        {
+          "text": "[5] Each of these consumer companies  has published a ‘no deforestation, no peat, no exploitation’ policy that should prohibit sourcing from rainforest destroyers"
+        },
+        {
+          "text": " Companies like Unilever and Nestlé claim to be industry leaders"
+        },
+        {
+          "text": " We look closer at the case of Kalangala in Uganda, where over one-hundred Ugandan small-scale farmers have gotten their land grabbed and been evicted by Oil Palm Uganda Limited, a subsidiary of Bidco Uganda Ltd, which is a venture co-owned by Wilmar International"
+        },
+        {
+          "text": "A major international conference in Edinburgh this week aimed at conserving wildlife is facing protests for helping big companies “profit from greenwash”"
+        },
+        {
+          "text": " According to Indonesian law, the companies are legally responsible for the fires"
+        },
+        {
+          "text": "In this first program of Growing Voices we dig deeper into the Wilmar International´s business, one of the largest palm oil corporations in the world"
+        },
+        {
+          "text": " In December 2013 Wilmar International published a policy committing an environmentally and socially responsible palm oil industry"
+        },
+        {
+          "text": " In September 2011, Posco Daewoo launched into the oil palm business in Indonesia targeting initial investments in the politically conflictual area of Papua"
+        },
+        {
+          "text": " We should be forcing these companies to be accountable, not helping them profit from greenwash"
+        },
+        {
+          "text": "The World Forum on Natural Capital to discuss how businesses can value and protect nature has run into fierce criticism from campaign groups in Scotland and India for hosting companies with controversial environmental records"
+        },
+        {
+          "text": " Operated by PT BIA, the oil palm plantation is located in Papua’s Merauke district and started operations in 2012"
+        },
+        {
+          "text": " Since then, the amount of oil palm plantations operating in Papua has increased at a staggering rate"
+        },
+        {
+          "text": " [1]On its website, Daewoo states that it has a large-scale oil palm concession area of 34,195 ha, plus facilities, under its subsidiary PT Bio Inti Agrindo (PT BIA) in Papua"
+        },
+        {
+          "text": " Evidence gathered across Indonesia by GFW during the massive forest fires of 2015 shows concentrations of fires around and inside PT BIA’s oil palm concession"
+        },
+        {
+          "text": " Nusa Urbancic, campaigns director for the Changing Markets Foundation told the Guardian: “We have come to understand that companies manipulate consumers’ emotional responses to sell a variety of products, but this behaviour is especially unethical when it comes to the health of vulnerable babies"
+        },
+        {
+          "text": " Nestlé’s inconsistency on this point calls into serious question whether it is committed to science, as it professes to be"
+        },
+        {
+          "text": " The helpline, the first of its kind in the palm oil sector, also utilizes a cutting-edge Laborlink mobile worker survey platform, which aims to assess human rights risk, deliver mitigation plans and track the effectiveness of actions taken"
+        },
+        {
+          "text": "To protest this inconsistency, on 30 September 2018 thirty Greenpeace activists blocked a tanker carrying palm oil and occupied a refinery owned by Wilmar"
+        },
+        {
+          "text": " None have actually managed to break the link between the palm oil they buy and the practices to which they have stated their opposition, with the others pushing deadlines back too"
+        },
+        {
+          "text": " But as we read in the new report, Wilmar continues to buy palm oil from at least 18 suppliers who destroy forests and expropriate land for local communities"
+        },
+        {
+          "text": " Universe, and Thai seafood companies Phatthana Seafood Co"
+        },
+        {
+          "text": " At the end of that year, the multinational had announced an ambitious policy of \"no-deforestation, no-destruction of peatlands and no-exploitation of workers\""
+        },
+        {
+          "text": "For these reasons, we again ask companies to respect and enforce their suppliers with commitments to be implemented by 2020 to stop the destruction of Indonesian forests before it is too late"
+        },
+        {
+          "text": "Supposedly they sell sustainable palm oil , but it's not true "
+        },
+        {
+          "text": " In December 2013, Wilmar became the first palm oil merchant to make public its commitment to  \"No Deforestation, No Destruction of Peatlands, No Exploitation \" (NDPE), which applied both to its own plantations and of its suppliers"
+        },
+        {
+          "text": "The move was praised by some environmentalists who hope other countries will follow suit to apply more pressure on the palm oil trade to shift to sustainable practices"
+        },
+        {
+          "text": " “The strategic position of national governments over the palm oil industry is paramount,” it said"
+        },
+        {
+          "text": "Wilmar deceived all these producers by supplying palm oil through a cover company, Gama Plantation, also dedicated to the production of palm oil and directed by senior executives of Wilmar and members of his family"
+        },
+        {
+          "text": " And now suspend Nestlé for not buying enough RSPO palm oil"
+        },
+        {
+          "text": "Nestlé (Kit Kat), Unilever (Ben & Jerry’s), Mars (M&M’s), Mondelēz (Cadbury), Colgate-Palmolive, General Mills (Betty Crocker cake mix), Procter & Gamble and Reckitt Benckiser each released details around their palm oil sourcing to provide greater public transparency"
+        },
+        {
+          "text": " Nestle had not reported its progress in the purchase of \"sustainable\" palm oil (supposedly sustainable would have to be said)"
+        },
+        {
+          "text": " It initially established a deadline of December 2015 to break the link between the palm oil it buys and practices like deforestation and land grabbing"
+        },
+        {
+          "text": "Perhaps, as of this day, we will know that, beyond eating or eating a simple cookie, it is obligatory to ask the manufacturer whether he is or is unwilling to curb the destruction of the planet"
+        },
+        {
+          "text": "”“If Wilmar keeps its word, by the end of 2019 it will be using satellites to monitor all of its palm oil suppliers, making it almost impossible for them to get away with forest destruction,” Kiki Taufik of Greenpeace Southeast Asia said in a statement"
+        },
+        {
+          "text": "\"Brands have been talking about cleaning up their palm oil for over a decade"
+        },
+        {
+          "text": "orangutansOrangutan populations are threatened by the palm oil industry"
+        },
+        {
+          "text": "For example, Doritos contain “vegetable oil” and Colgate toothpaste has “glycerin” – both of which are terms commonly used to describe palm oil content in ingredient lists"
+        },
+        {
+          "text": "But it is impossible for consumers to know for certain because popular brands such as PepsiCo (Doritos, Twisties) and Kellogg’s (Cornflakes, Nutri Grain) have refused to reveal to The New Daily which of their products contain palm oil"
+        },
+        {
+          "text": "Environmental advocacy body Greenpeace released a report this week revealing that half of 16 companies that pledged in 2010 to eliminate deforestation from palm oil by 2020 had failed to disclose where they source their palm oil almost 10 years later"
+        },
+        {
+          "text": "Companies are also avoiding listing “palm oil” explicitly in their product ingredients, instead masking it by using other vague terms"
+        },
+        {
+          "text": " Photo: GreenpeaceMeanwhile, eight companies have come clean about where they buy palm oil from"
+        },
+        {
+          "text": "PepsiCo said some of its snack products are cooked in palm oil that is 100 per cent certified by the Roundtable on Sustainable Palm Oil (RSPO)"
+        },
+        {
+          "text": "”Ferrero said it was the first global company in 2015 to source 100 per cent RSPO-certified palm oil"
+        },
+        {
+          "text": " Kellogg’s Australia’s Derek Lau said it was committed to working with all its suppliers to source sustainable and fully traceable palm oil"
+        },
+        {
+          "text": "But when contacted by The New Daily, the companies still remained tight-lipped about which of their products contained palm oil"
+        },
+        {
+          "text": "Nestle said it used palm oil in “a number of products”, mainly as a cooking oil in its food items"
+        },
+        {
+          "text": " It purchased 420,000 tonnes of palm oil globally in 2016"
+        },
+        {
+          "text": " “Palm oil awarenessPalm oil appears in more than 50% of all supermarket products, from confectionary to cosmetics, but the commodity is linked to environmental destruction in global supply chains"
+        },
+        {
+          "text": " The palm oil industry’s largest sustainable certification body has responded by arguing that Norway’s ban could cause unintended consequences, pushing deforestation elsewhere"
+        },
+        {
+          "text": " The company, which supplies 40% of the world’s palm oil, made a new pledge on Monday (10 December) to ensure that its supply chains are classed as “deforestation-free” by 2020 – a commitment which builds on its 2013 “no deforestation, no peat, no exploitation” (NPDE) sustainability strategy"
+        },
+        {
+          "text": "Green economy reactionThe announcement from Wilmar International was welcomed by Greenpeace, which has been actively campaigning against the firm’s 2013 policy for several years, claiming it was “insufficient” to tackle deforestation and modern slavery in palm oil supply chains"
+        },
+        {
+          "text": "“As one of the world’s largest palm oil companies, Wilmar has a key role to play in stopping unsustainable palm oil from finding its way into supply chains and ultimately onto the shelves of our supermarkets"
+        },
+        {
+          "text": " If Wilmar keeps its word, by the end of 2019 it will be using satellites to monitor all of its palm oil suppliers, making it almost impossible for them to get away with forest destruction"
+        },
+        {
+          "text": "“We have a shared responsibility with the rest of the upstream and downstream industry players as well as consumer goods companies and NGOs to prioritize forest protection at the heart of our operations,” the statement reads"
+        },
+        {
+          "text": "”The move was also welcomed by WWF’s commodities lead Emma Keller, who said the use of satellite monitoring could help the palm oil industry take a “huge step forward” in eliminating unsustainable practices from supply chains"
+        },
+        {
+          "text": "The green group’s global head of Indonesian forests campaigns Kiki Taufik confirmed that Greenpeace will “pause” this campaign in order to give Wilmar International time to put the new plan into place"
+        },
+        {
+          "text": "“The Norwegian parliament’s decision sets an important example to other countries and underlines the need for a serious reform of the world’s palm oil industry,” said Nils Hermann Ranum of green group Rainforest Foundation Norway"
+        },
+        {
+          "text": "”Earlier this year, Wilmar’s billionaire co-founder Martua Sitorus was forced to resign after it came to light that he had been running a second firm, Gama, with his brother that had cleared an area of rainforest twice the size of Paris since 2013"
+        },
+        {
+          "text": " Darrel Webber, chief executive of the Roundtable on Sustainable Palm Oil (RSPO), told Eco-Business: “We believe that moves such as this stem from good intentions"
+        },
+        {
+          "text": "The news emerges a week after Norway became the first country to introduce a ban on palm oil"
+        },
+        {
+          "text": "The world’s biggest palm oil trader has updated its sustainability policy, as its self-imposed deadline to stop buying palm oil linked to a variety of environmental and social ills draws closer"
+        },
+        {
+          "text": "Wilmar was the first palm oil giant to declare such a policy, and since then others have followed suit"
+        },
+        {
+          "text": " Previously, Wimar would continue to buy palm oil from these firms while it “engaged” with them"
+        },
+        {
+          "text": "Indonesia, the world’s top palm oil producing country, has lost more rainforest than any nation but Brazil since the turn of the century, largely as a result of uncontrolled plantation expansion, and is consequently a leading greenhouse gas emitter"
+        },
+        {
+          "text": "“Engagement is essential to bring these suppliers up to compliance with our NDPE policy rather than drive them towards a growing leakage market of unsustainable palm oil,” the spokesperson said in an email"
+        },
+        {
+          "text": "Thus the international environmental organization opens a communiqué in which it sings victory for the \"capitulation\" of the world oil palm giant"
+        },
+        {
+          "text": "On 20 September, Indonesian President Joko Widodo announced the decision to suspend for three years the concession of new land to be used in the cultivation of oil palm trees"
+        },
+        {
+          "text": " Wilmar is the world’s largest palm oil processor, accounting for over one-third of the global palm oil processing market and with a distribution network covering over 50 countries"
+        },
+        {
+          "text": "Last year, over 200,000 of us signed a petition telling Nestle to drop their Guatemalan palm oil supplier REPSA, after it was found guilty of ecocide, causing massive fish and wildlife die-offs -- and we won!Together, we can push Indra Nooyi to come good on her promises, and leave a legacy to be proud of at Pepsi"
+        },
+        {
+          "text": "The Southeast Asian plantation sector is famous for the use of fictitious companies managed by managers or family members to hide deforestation"
+        },
+        {
+          "text": "The Court solidly rejected the companies’ cynical, if not ridiculous, argument that under new decisions by the Supreme Court no cases can be brought where the actual harmful act, in this case the enslaving of children to harvest cocoa, occurred outside of the United States"
+        },
+        {
+          "text": "This case remains one of the only viable options for forcing the companies to do what they promised back in 2001 to do when they signed the protocol  -- stop knowingly profiting from child slavery! There are several possible legal hurdles remaining, including the companies seeking further review by the Supreme Court, but IRAdvocates, along with their co-counsel Paul Hoffman and Catherine Sweetser at Schonbrun Seplow Harris & Hoffman LLP, are committed to obtaining long-delayed justice for the child slaves Nestle and Cargill knowingly have profited from"
+        },
+        {
+          "text": "IRAdvocates is a non-profit legal advocacy group dedicated to seeking creative legal strategies to hold multinational companies accountable for human rights violations in the global economy"
+        },
+        {
+          "text": " Later that year, Wilmar announced a groundbreaking ‘no deforestation, no peat, no exploitation’ policy"
+        },
+        {
+          "text": "The Court squarely held that Plaintiffs’ case can proceed based on the legal theory that these two giant multinationals “aided and abetted” child slavery from their corporate offices in the United States by continuing across many years to knowingly purchase cocoa that was harvested by child slaves and providing funds, supplies, training and other assistance to the plantations in Cote D’Ivoire that the companies knew were using child slaves"
+        },
+        {
+          "text": "To assure accountability, the legal team will soon be filing a new complaint against Nestle, Cargill and other major companies for knowingly benefitting from the trafficking of children into slavery to harvest cocoa for these companies"
+        },
+        {
+          "text": "In 2016, the International Criminal Court broadened its mandate to include land grabbing as a “crime against humanity”, which it will now prosecute"
+        },
+        {
+          "text": "”Webber added that RSPO is working with members to halt deforestation and improve practices, and a “concerted global effort” was needed to root deforestation out of the industry"
+        },
+        {
+          "text": "There is no time for more delays — suspend all of Indofood's \"sustainability\" certifications until it stops abuses of workers' rights"
+        },
+        {
+          "text": "Nestlé launches new worker helpline to tackle human & labour rights abuses in palm oil supply chainAuthor: Food Ingredients First, Published on: 12 November 2018\"Reporting human and labor rights in palm oil: Nestlé and Sime Darby Plantation launch worker helpline\", 8 Nov 2018Nestlé and the Sime Darby Plantation (SDP) are joining forces to pilot a project that will help eliminate human and labor rights abuses in their shared palm oil supply chain in Malaysia"
+        },
+        {
+          "text": "Mondelēz, which has committed to a zero deforestation goal by 2020, says it hasn’t yet been able to achieve 100 percent sustainable palm oil in its supply chain, and pledged to keep working to that end with its suppliers"
+        },
+        {
+          "text": "In 2010, the company along with other members of the Consumer Goods Forum (CGF) acknowledged the global climate impact of deforestation and agreed to work toward zero deforestation by 2020"
+        },
+        {
+          "text": "Then in 2014, Mondelēz adopted a “no deforestation, no peat, no exploitation” (NDPE) policy, restricting the company to sourcing palm oil “produced on legally held land, [that] does not lead to deforestation or loss of peatland, respects human rights, including land rights, and does not use forced or child labor"
+        },
+        {
+          "text": "”That same year, it signed the New York Declaration on Forests, a voluntary and non-legally binding political statement to reduce global emissions of greenhouse gases through deforestation"
+        },
+        {
+          "text": "‘Weakest certification’In a response to the report, Mondelēz said that while it hadn’t been able to source 100 percent sustainable and traceable palm oil, it remained committed to eradicating deforestation in its supply chain"
+        },
+        {
+          "text": "Despite these findings, units of Lonsom not subject to the complaint are still certified to sell RSPO-certified palm oil, and they will be audited within the next three months"
+        },
+        {
+          "text": "That contradicts pledges each company has made to stop procuring palm oil that contributes to deforestation"
+        },
+        {
+          "text": "In an email, a Nestlé spokesperson acknowledged that PT Surya was a “sub-supplier to our direct suppliers in the past,” but added, “We are currently working with our direct suppliers to ensure that they have removed these companies and any others engaged in continued deforestation from our supply chain"
+        },
+        {
+          "text": "Since 1987, the group has pressured companies like Burger King, Disney, and General Mills to rid their supply chains of deforestation"
+        },
+        {
+          "text": "Mondelez also signed the Declaration of New York to end deforestation of forests and is a member of the Consumer Goods Forum Palm Oil Working Group"
+        },
+        {
+          "text": "While today’s announcement is a step in the right direction, the company needs to scale up its efforts toward reusable systems rather than grasping at a quick fix that could cause further environmental disaster such as deforestation"
+        },
+        {
+          "text": "The program was developed to enhance the effectiveness of its current policy No Deforestation, no Peat, no Exploitation (NDPE), while it is also planned to provide remedies for the past deforestation  carried out by its third party suppliers »"
+        },
+        {
+          "text": "The music video aims to bring attention to a petition filed by Chennai-based activists targeting Unilever’s CEO Paul Polman"
+        },
+        {
+          "text": "Palm oil sourcing giant Wilmar International has unveiled plans to use satellite tracking and other digital technologies in a bid to eliminate deforestation risks from its supply chains"
+        },
+        {
+          "text": "The company, which supplies 40% of the world’s palm oil, made a new pledge on Monday (10 December) to ensure that its supply chains are classed as “deforestation-free” by 2020 – a commitment which builds on its 2013 “no deforestation, no peat, no exploitation” (NPDE) sustainability strategy"
+        },
+        {
+          "text": "In a bid to tackle the issue, firms such as Unilever have moved to source palm oil certified as “deforestation-free” in recent months, with the multinational having struck a deal with a government-owned palm oil plantation firm in Indonesia to create a support framework that enables local mills and smallholders to produce palm oil according to zero-deforestation and zero-peatland-deterioration standards this year"
+        },
+        {
+          "text": "“Palm oil awarenessPalm oil appears in more than 50% of all supermarket products, from confectionary to cosmetics, but the commodity is linked to environmental destruction in global supply chains"
+        },
+        {
+          "text": "FOOD & AGRICULTUREWilmar aims for deforestation-free supply chain by 2020 after protests Read nowThe firm has also said it would engage with suppliers found to be clearing forests to avoid creating a “leakage market” of farmers who continue to deforest after suspension"
+        },
+        {
+          "text": "The world’s largest palm oil trader, Singapore-headquartered Wilmar International, has hatched a new plan to eliminate deforestation from its supply chain following sustained pressure from green groups"
+        },
+        {
+          "text": "Wilmar supplies palm oil—the world’s most widely consumed edible oil—to all of the big consumer goods companies that promised to be deforestation-free by 2020 in a landmark commitment made almost a decade ago"
+        },
+        {
+          "text": "Darrel Webber, chief executive, Roundtable on Sustainable Palm OilThe move, designed to sever the country’s links to tropical deforestation, will mean the Northern European country will no longer source palm oil for use in biofuels by 2020"
+        },
+        {
+          "text": "The palm oil industry’s largest sustainable certification body has responded by arguing that Norway’s ban could cause unintended consequences, pushing deforestation elsewhere"
+        },
+        {
+          "text": "In an updated statement on its palm oil policy in Indonesia, PepsiCo said that it has decided to suspend sourcing palm oil from IndoAgri to its joint venture with Indofood, “pending further progress and visibility” around allegations of labour violations on its plantations"
+        },
+        {
+          "text": "Later that year, Wilmar announced a groundbreaking ‘no deforestation, no peat, no exploitation’ policy"
+        },
+        {
+          "text": "In 2013, Sinar Mas Group’s Asia Pulp & Paper (SMG/APP) committed to halt deforestation under its Forest Conservation Policy (FCP)"
+        },
+        {
+          "text": "A few years ago, the world's largest consumer companies announced that they would only provide palm oil free of deforestation"
+        },
+        {
+          "text": " While today’s announcement is a step in the right direction, the company needs to scale up its efforts toward reusable systems rather than grasping at a quick fix that could cause further environmental disaster such as deforestation"
+        },
+        {
+          "text": "«After an intense Greenpeace campaign, Wilmar International , the world's largest palm oil operator (sells 40 percent of this raw material), has published in the last hours a detailed action plan to map and monitor its own suppliers »"
+        },
+        {
+          "text": " The program was developed to enhance the effectiveness of its current policy No Deforestation, no Peat, no Exploitation (NDPE), while it is also planned to provide remedies for the past deforestation  carried out by its third party suppliers »"
+        },
+        {
+          "text": "Wilmar, commitments and agreements black on whiteIn its communication , dated 10 December 2018, the corporation declares to launch a new \" supplier monitoring and involvement program \" to \"accelerate its efforts towards a palm oil industry free from deforestation"
+        },
+        {
+          "text": "Back in 2015, rapper Sofia Ashraf’s protest music video Kodaikanal Won’t put the spotlight on mercury contamination at a Unilever plant in Kodaikanal, Tamil Nadu"
+        },
+        {
+          "text": " The music video aims to bring attention to a petition filed by Chennai-based activists targeting Unilever’s CEO Paul Polman"
+        },
+        {
+          "text": "\" But, as it reads in the new report, Wilmar continues to buy palm oil from at least 18 suppliers destroying forests and expropriating land to local communities"
+        },
+        {
+          "text": " To protest this inconsistency, on September 25, 2018, thirty Greenpeace activists blocked a tanker carrying palm oil and occupied a refinery owned by Wilmar"
+        },
+        {
+          "text": " Between 2010 and 2015, the main suppliers of palm oil and numerous multinationals using this raw material undertook to eliminate from their supply chain the deforestation, the destruction of peat bins and the violation of workers ' rights and local communities"
+        },
+        {
+          "text": " At the end of that year, the multinational had announced an ambitious policy of \"no-deforestation, no-destruction of torpedo and no-exploitation of workers"
+        },
+        {
+          "text": " For these reasons we again ask companies to respect and enforce their suppliers by 2020 to stop the destruction of Indonesian forests before it is too late"
+        },
+        {
+          "text": " The palm oil industry and the big oil-consuming brands have little time to fulfill their promise to clean up their supply chains by 2020"
+        },
+        {
+          "text": " The Roundtable on Sustainable Palm Oil (RSPO) is the world’s largest certification system for “sustainable” palm oil, and it’s far past time for the RSPO to suspend Indofood"
+        },
+        {
+          "text": " Indonesian food manufacturing company and palm oil giant Indofood continues to evade its responsibilities to uphold RSPO standards and address the worker exploitation on its plantations"
+        },
+        {
+          "text": " Take action now:  We demand that the RSPO send the clearest message to Indofood and any other company that destroys with one hand as they sell palm oil with the other: clean up your act or you’re out"
+        },
+        {
+          "text": "Nestlé and PepsiCo, both long time business partners of Indofood, have ended direct and indirect sourcing of palm oil from IndoAgri"
+        },
+        {
+          "text": "  In an updated statement on its palm oil policy in Indonesia, PepsiCo said that it has decided to suspend sourcing palm oil from IndoAgri to its joint venture with Indofood, “pending further progress and visibility” around allegations of labour violations on its plantations"
+        },
+        {
+          "text": "We did it! Retweet to celebrate that @PepsiCo has suspended rogue palm oil supplier @Indofood"
+        },
+        {
+          "text": " Next, Pepsi needs to fix the loopholes in its palm oil policy for good, to make punishing suppliers that exploit workers and destroy #orangutan habitat the rule, not the exception"
+        },
+        {
+          "text": " A few years ago, the world's largest consumer companies announced that they would only provide palm oil free of deforestation"
+        },
+        {
+          "text": " Despite these pledges, a Greenpeace research has found that 25 palm oil producers have deforested more than 130,000 hectares of tropical forest since the end of 2015"
+        },
+        {
+          "text": "Indofood, a trading partner of Nestle and Pepsi, is one of the worst players in palm oil production"
+        },
+        {
+          "text": " The suspension of Indofood by the industry's main certification system could force Nestlé to take drastic measures against Indofood, otherwise negative reactions from the public could be provoked"
+        },
+        {
+          "text": " Between deforestation and working conditions close to modern slavery, the Indonesian giant has been escaping sanctions for far too long, and this impunity may soon end! The main certification body for palm oil, the RSPO, could eventually suspend palm oil's palm oil from its certification scheme"
+        },
+        {
+          "text": " The food giant is working with Indofood to market its products in the South Asian market by benefiting from a lucrative partnership, cheating on its palm oil commitments"
+        },
+        {
+          "text": "The conglomerate said Thursday that it has hired an accounting firm to carry out a “comprehensive assessment” of all industrial forest plantation companies in Indonesia that would be supervised by The Forest Trust, a corporate backed group that says it promotes transparency in supply chains"
+        },
+        {
+          "text": " Three months ago, the council had sent a come clean ultimatum to Sinarmas, one of the world’s largest paper companies, and its billionaire Indonesian family owners"
+        },
+        {
+          "text": " It’s actually pretty simple, all that she needs to do is deliver on Pepsi’s outstanding palm oil promises before she steps down on October 3rd"
+        },
+        {
+          "text": "Pepsi’s palm-oil record is ugly"
+        },
+        {
+          "text": "Under Nooyi’s leadership, Pepsi has tried to fool us with warm words about its palm oil commitments and the loopholes allowing Indofood to act like a bully"
+        },
+        {
+          "text": " Last year, over 200,000 of us signed a petition telling Nestle to drop their Guatemalan palm oil supplier REPSA, after it was found guilty of ecocide, causing massive fish and wildlife die-offs -- and we won!Together, we can push Indra Nooyi to come good on her promises, and leave a legacy to be proud of at Pepsi"
+        },
+        {
+          "text": " She won’t want her name to be mired in a huge public campaign and media storm about palm oil scandals, while her critics and business leaders are writing up articles about her legacy"
+        },
+        {
+          "text": "They supposedly sell sustainable palm oil, but it's not true"
+        },
+        {
+          "text": " In December 2013, Wilmar became the first palm oil trader to make public his commitment to \"No Deforestation, No Destroying of Turberas, Non-Exploitation\" (NDPE), which was of application both on its own plantations and on its suppliers"
+        },
+        {
+          "text": " The Southeast Asian plantation sector is famous for the use of fictitious companies managed by managers or family members to hide deforestation"
+        },
+        {
+          "text": "Unilever’s chief executive Paul Polman will step down next month after 10 years in the job, leaving insider Alan Jope to step into his shoes after the Anglo-Dutch group’s failed attempt to shift its headquarters"
+        },
+        {
+          "text": " Indonesia, the world’s top palm oil producing country, has lost more rainforest than any nation but Brazil since the turn of the century, largely as a result of uncontrolled plantation expansion, and is consequently a leading greenhouse gas emitter"
+        },
+        {
+          "text": "Also notable about Wilmar’s statement was that it seemed to acknowledge the presence of “shadow companies” in Indonesia’s plantation sector, a growing issue as it comes to light that some conglomerates are hiding their connections to destructive business units through front shareholders and offshore companies"
+        },
+        {
+          "text": " This palm oil giant concentrates 40 % of world trade in this raw material, and so these changes would have a major impact on the rest of the palm oil industry"
+        },
+        {
+          "text": " To assure accountability, the legal team will soon be filing a new complaint against Nestle, Cargill and other major companies for knowingly benefitting from the trafficking of children into slavery to harvest cocoa for these companies"
+        },
+        {
+          "text": "After an international campaign by Greenpeace, Wilmar International published a detailed action plan to map and monitor its suppliers of palm oil"
+        },
+        {
+          "text": " \" Wilmar supplies palm oil to most multinational food and cosmetic companies"
+        },
+        {
+          "text": " If Wilmar is there, by the end of 2019, he will use satellites to monitor all his palm oil suppliers, who will no longer be able to hide the deforestation they are responsible for"
+        },
+        {
+          "text": "The announcement by Wilmar follows an international campaign by Greenpeace to end the deforestation of palm oil used by the food and cosmetics multinationals"
+        },
+        {
+          "text": " Across West Africa, women displaced by oil palm plantations run by Asian conglomerates like Wilmar, Olam, Golden Agri-Resources and others are learning from each other, building strategies together and gaining the voice and strength to lead the fight"
+        },
+        {
+          "text": " In the Democratic Republic of Congo, villagers resisting the 100,000 hectare Feronia oil palm operation, formerly held by Unilever, are challenging the very legality of the project in a complaint to the European governments backing it"
+        },
+        {
+          "text": " Between 2010 and 2015, the major palm oil suppliers and many multinationals using this raw material have committed to eliminating deforestation, peat destruction and the violation of the rights of workers and local communities from their supply chain "
+        },
+        {
+          "text": "It was the first palm oil company to commit to stop clearing forests in 2013, and bolstered its sustainability policy two years ago"
+        },
+        {
+          "text": " Greenpeace will ensure that Wilmar scrupulously respects its commitment and will continue to inform consumers about the environmental impact of the products of their supermarkets, \" explains Cécile Leuba, Greenpeace campaigner for Greenpeace France"
+        },
+        {
+          "text": " For Greenpeace, if this plan is properly implemented, it will be an important step towards eliminating deforestation in the Wilmar supply chain"
+        },
+        {
+          "text": "3 million people around the world have signed the Greenpeace petition calling for an end to the deforestation of palm oil"
+        },
+        {
+          "text": " For a palm oil plantation, a company has destroyed a hectare of forest area-it is apparently supplied by Nestlé, Mars, PepsiCo and Unilever"
+        },
+        {
+          "text": " From a helicopter perspective, a team from Greenpeace shows what is currently happening in Indonesia: a company produces large areas of rainforest in the province of Papua-it is preparing a new palm oil plantation"
+        },
+        {
+          "text": "The big companies blame the blame for deforestation and other scandals on palm oil plantations over and over again and again"
+        },
+        {
+          "text": " Palm oil industry is looking for new areas \"After they have destroyed much of Sumatra and Kalimantan's rainforests, the palm oil industry is now pushing into new areas like Papua,\" says Richard George of Greenpeace UK"
+        },
+        {
+          "text": " In this case, it is the \"Hayel Saeed Anam Group\" (HSA-Group)-a multi-group which, according to Greenpeace, supplies the major food industry groups: Nestlé, Mars, PepsiCo and Unilever"
+        },
+        {
+          "text": "An effort to clean up its supply chain, the NDPE policy was just one among several industry-first sustainability-linked initiatives Wilmar launched in recent years, many of which were much welcomed by environmental groups"
+        },
+        {
+          "text": "In 2015, the company was the first in the sector to disclose the names and locations of its suppliers in its palm oil supply chain in Malaysia and Indonesia in an attempt to raise transparency levels and tackle deforestation"
+        },
+        {
+          "text": "The decision was announced on Tuesday, about a week after non-governmental environmental organisation Greenpeace issued a report that exposed Sitorus’ links to Gama Plantation, a palm oil business that Greenpeace accused of destroying rainforest twice the size of Paris in Papua, Indonesia"
+        },
+        {
+          "text": "The allegations come almost five years after the agribusiness giant committed its entire operations worldwide, including subsidiaries and third-party suppliers, to an ambitious ‘no deforestation, no peat, no exploitation’ (NDPE) policy, responding to increasing pressure from environmental organisations such as Greenpeace International and The Forest Trust"
+        },
+        {
+          "text": "Video and images gathered by the environmental campaign group’s helicopter appear to show the clearance of 4,000 hectares of rainforest within the PT Megakarya Jaya Raya concession between May 2015 and April 2017"
+        },
+        {
+          "text": " One group of  activists climbed the anchor chain of a tanker ship transporting palm oil and are preventing it from moving"
+        },
+        {
+          "text": "ANJ and other palm-oil companies have cleared 200 square miles on the island since the end of 2015, it said"
+        },
+        {
+          "text": "For twelve hours thirty Greenpeace volunteers occupied a palm oil refinery belonging to Wilmar International, the world’s largest palm oil trader"
+        },
+        {
+          "text": " Yet it is still buying palm oil from forest destroyers"
+        },
+        {
+          "text": " Wilmar should only buy palm oil from producers it can prove are clean"
+        },
+        {
+          "text": " Severe deforestationIn 2013, Wilmar became the first palm oil trader to adopt a ‘no deforestation, no peat, no exploitation’ policy"
+        },
+        {
+          "text": " But last week, a Greenpeace International investigation revealed that 25 palm oil producers had cleared 130,000ha of rainforest since 2015"
+        },
+        {
+          "text": " Wilmar was buying from 18 of those palm oil groups; three supplied the refinery where the protest is taking place"
+        },
+        {
+          "text": " Only a fraction of the palm oil that Wilmar trades comes from its own plantations; more than 80 percent comes from other palm oil producers"
+        },
+        {
+          "text": " Dal Payne, a climber from the UK taking part in the action said: “This refinery is loaded with Wilmar’s dirty palm oil and if we weren’t here it would be on its way to supermarkets all over the world"
+        },
+        {
+          "text": "”Forest destroyersGreenpeace is calling on Wilmar to prove that it no longer sources palm oil from forest destroyers"
+        },
+        {
+          "text": " Wilmar International and other palm oil groups are regularly accused of exploiting workers, children and local communities"
+        },
+        {
+          "text": "Over 100,000 SumOfUs members like you have already told PepsiCo to cut ties with this palm oil villain, but the snack food giant has resisted so far, hiding behind those RSPO certificates"
+        },
+        {
+          "text": " Meaning that if Pepsi’s ‘sustainable’ palm oil policy is to retain any scrap of credibility, it must end its joint venture partnership with the corporation -- NOW"
+        },
+        {
+          "text": "Nestlé also said that it was investigating the allegations with Wilmar – which told the guardian that it was sending a team to the region to assess whether other sources in its supply chain were using palm oil sourcing back to PT ABN’s 2,000 hectare concession"
+        },
+        {
+          "text": "With the deadline due this year for the full implementation of Wilmar's 'No peat, no deforestation, no exploitation' promise, the oil palm giant is keen to push its green image in Europe"
+        },
+        {
+          "text": "It’s this same pressure that environmental non-profit CDP believes will help companies realise their no deforestation pledges"
+        },
+        {
+          "text": " Indofood is vertically integrated and can circumvent the NDPE market, and it can use its own palm oil for its own food production"
+        },
+        {
+          "text": " With a landbank of approximately 550,000 hectares, its NDPE non-compliance reverberates throughout the Southeast Asia palm oil market"
+        },
+        {
+          "text": "Pepsi has nowhere to hide now: its business partner Indofood has been kicked out of the Roundtable on Sustainable Palm Oil (RSPO), the world’s largest sustainable palm oil authority, for mistreating workers on its environment-wrecking plantations"
+        },
+        {
+          "text": "And after 150,000 SumOfUs members put pressure on Pepsi’s departing CEO, Pepsi responded and stopped sourcing palm oil from Indofood -- but failed to cut ties completely, keeping its business partnership in Indonesia"
+        },
+        {
+          "text": "The withdrawal of Indofood from the Roundtable on Sustainable Palm Oil (RSPO) and the subsequent suspensions of its subsidiaries signal a possible expanding gap between the NDPE market and the leakage market"
+        },
+        {
+          "text": " Singapore-listed IndoAgri, a vertically integrated palm oil producer, is a subsidiary of Indofood"
+        },
+        {
+          "text": "Now it’s official: Indofood’s palm oil cannot be called sustainable, even by the subpar RSPO standards"
+        },
+        {
+          "text": "Only a fraction of the palm oil that Wilmar trades comes from its own plantations; more than 80 percent comes from other palm oil producers"
+        },
+        {
+          "text": " In the latest turn of events, the Roundtable on Sustainable Palm Oil (RSPO) terminated Indofood’s sustainability certificates and membership"
+        },
+        {
+          "text": "¹That’s bad news for Indofood’s business partners and lenders PepsiCo, Yum! Brands, Citigroup, Mizuho, Mitsubishi UFJ (MUFG), SMBC Group, Rabobank and Standard Chartered"
+        },
+        {
+          "text": "No Deforestation, No Peatland, No Deforestation (NDPE) policies have pressured Indofood and its subsidiaries to produce, refine, and sell palm oil that is not linked to deforestation"
+        },
+        {
+          "text": " PepsiCo suspended both direct and indirect purchases of palm oil from IndoAgri in 2018, while Nestlé ended its joint venture with Indofood"
+        },
+        {
+          "text": "One group of  activists climbed the anchor chain of a tanker ship transporting palm oil and are preventing it from moving"
+        },
+        {
+          "text": "But last week, a Greenpeace International investigation revealed that 25 palm oil producers had cleared 130,000ha of rainforest since 2015"
+        },
+        {
+          "text": "  Dal Payne, a climber from the UK taking part in the action said: “This refinery is loaded with Wilmar’s dirty palm oil and if we weren’t here it would be on its way to supermarkets all over the world"
+        },
+        {
+          "text": "  Wilmar International and other palm oil groups are regularly accused of exploiting workers, children and local communities"
+        },
+        {
+          "text": "Food companies supplying British supermarkets are buying palm oil from producers accused of destroying the rainforest home of some of the world’s most beautiful birds"
+        },
+        {
+          "text": " New Guinea has a variety of wildlife that is almost unequalled and had been relatively untouched by the palm-oil industry"
+        },
+        {
+          "text": " In order to prove that the palm oil they use in the products we find in our supermarkets does not come from plantations that are responsible for deforestation, they must start by doing all the light on their suppliers"
+        },
+        {
+          "text": " Various NGOs have established a link between major brands and palm oil companies that destroy tropical forests and exploit local labor"
+        },
+        {
+          "text": "Plantations built on deforested land have allegedly been used to supply palm oil to scores of household brands that also include McDonald’s, Mars, Kellogg’s and Procter & Gamble, according to a new report"
+        },
+        {
+          "text": " The palm oil reaches major brands via a twisting supply chain that stretches from the PT Agra Bumi Niaga (ABN) logging company, which delivers to a processing mill owned by PT Ensem Sawita (ES), which then sells the palm oil on to some of the world’s largest traders"
+        },
+        {
+          "text": "PT ABN declined requests for comment but after extensive Guardian inquiries, PT ES admitted using ABN’s palm oil – due to confusion after the logging firm changed its name – and said that it “regretted this failure”"
+        },
+        {
+          "text": "The company promised to “strengthen our traceability practices by exchanging information to relevant stakeholders who have palm oil plantation data"
+        },
+        {
+          "text": " Mars and Kellogg’s stressed their sustainable palm oil policies, while Procter & Gamble said that it had told suppliers about its responsible sourcing policy"
+        },
+        {
+          "text": "\"FPP will continue to highlight Wilmar's human rights abuses, and in particular, its failure to respect the land rights of customary communities, until we see changes on the ground"
+        },
+        {
+          "text": "Indonesia’s president Joko Widodo responded with a moratorium on new palm oil permits last April"
+        },
+        {
+          "text": " Two months later, Aceh’s governor, Zaini Abdullah ordered palm oil companies to halt all forest clearing, even where valid permits existed"
+        },
+        {
+          "text": "”A spokesman for Pepsico, singled out by RAN as , said “We take this issue very seriously, and we are making significant investments to improve every aspect of our palm oil supply chain"
+        },
+        {
+          "text": "”Unilever admitted that it had indirectly bought palm oil from PT ABN through its suppliers, Wilmar and Musim Mas, and said that it had requested “a response and an action plan” from them soon"
+        },
+        {
+          "text": "Of the palm oil traders which supplying the food brands, IOI said that that it had “registered recent deliveries from PT ES in our supply chain” but that the firm had “confirmed that they no longer source from PT ABN”"
+        },
+        {
+          "text": " Golden Agri-Resources said that its exposure to PT ES was “relatively small” but that it would visit the company in the next weeks to find out if it was indirectly selling on palm oil from PT ABN"
+        },
+        {
+          "text": "However, the companies had been warned about ‘conflict palm oil’ entering the supply chain through PT ES’s third-party suppliers since 2014, and engagement with the firm had not changed its behaviour"
+        },
+        {
+          "text": "Since then, IOI’s customers have moved to cancel contracts with the conglomerate, to date one of the major suppliers of RSPO-brand “Certified Sustainable Palm Oil"
+        },
+        {
+          "text": "IOI Group, and its downstream affiliate IOI Loders Croklaan, were suspended from the Roundtable on Sustainable Palm Oil (RSPO) last month over the group’s plantations in the Ketapang area of Kalimantan, the Indonesian part of Borneo"
+        },
+        {
+          "text": "”It is understood that Unilever told NGOs it was cancelling its contracts with IOI, one of its biggest suppliers of RSPO-brand “Certified Sustainable Palm Oil,” or CSPO"
+        },
+        {
+          "text": "In the wake of IOI Group’s suspension from the the world’s largest association for ethical palm oil production, its customers Unilever, Kellogg and Mars have announced they will stop doing business with the Malaysian conglomerate"
+        },
+        {
+          "text": "” The spokesperson added, “Separately but in tandem with this process, we are working with IOI and NGOs to try and transform IOI’s business make it sustainable – this is because of the transformational effect this could have on the palm oil industry"
+        },
+        {
+          "text": " The Eyes on the Forest investigation shows that 2007 was the year APP’s wood suppliers began clearing the very areas of high conservation value forest in central Sumatra’s Pulau Muda that had been highlighted by APP as an example of a new “scientific basis for the sustainable development of our plantations and the management of our conservation areas”"
+        },
+        {
+          "text": " Eyes on the Forest calls on the ECAs and other investors to not finance APP’s plans to expand existing or open new pulp and paper mills in Indonesia, in China and around the world"
+        },
+        {
+          "text": "According to a November 2014 article in Businessday PZ Wilmar's investment of $165 million to develop the current 26,000 hectares of palm oil plantations is only the beginning"
+        },
+        {
+          "text": " Gemma Tillack, agribusiness campaign director for RAN, said the lawsuit is a “drastic decision” by company executives, and shows that IOI Group “is digging in its heels rather than truly trying to solve its serious conflict palm oil problem”"
+        },
+        {
+          "text": " In 2008, the communities reached agreement with Wilmar over the impacts of its operations, and the World Bank suspended further investments in the palm oil sector pending a review and policy development to avoid its financing causing negative social and environmental impacts"
+        },
+        {
+          "text": "IOI Group has been dealt a new blow as a group of non-government organisations (NGOs) on Thursday called for a mass boycott of the company, following its move to sue the Roundtable on Sustainable Palm Oil (RSPO) earlier this week"
+        },
+        {
+          "text": "The Malaysian palm oil giant is suing RSPO - the industry association for sustainable palm oil - over RSPO’s decision to suspend IOI Group’s membership from the organisation, and for banning it from selling palm oil that is “certified sustainable”"
+        },
+        {
+          "text": "A coalition of 22 environmental organisations issued an open letter to hundreds of global brands and palm oil traders, urging them to cancel all sourcing contracts and business relationships with the IOI Group and its processing arm, IOI Loders Croklaan"
+        },
+        {
+          "text": "The world’s largest palm oil processor and trader used the Davos gathering of business leaders as an opportunity to talk up progress on its efforts to tackle deforestation in the palm oil sector"
+        },
+        {
+          "text": "Glenn Hurowitz, senior fellow at the Centre for International Policy, who wrote an introductory commentary for Wilmar’s progress report, told the Guardian that being able to measure progress is key: “Among the large agribusiness companies, Wilmar is leading the way in many areas, from supplier engagement to transparency to rapidly responding to grievances filed by civil society "
+        },
+        {
+          "text": " The palm oil supply chain is notoriously complex and lacking in transparency, but Greenpeace Indonesia campaigner Annisa Rahmawati believes the company should be making better progress on its commitments"
+        },
+        {
+          "text": "Continued external pressureWilmar’s 2013 commitment was a bold move but it didn’t happen without considerable pressure from what environment author and journalist Fred Pearce describes as “strenuous NGO campaigns” and an announcement by Unilever – one of Wilmar’s customers and the world’s largest purchaser of palm oil in 2012 – that it would be tracking its entire supply chain to ensure it met its promise to end its role in deforestation"
+        },
+        {
+          "text": "Unilever quits BusinessEurope following tensions over lobby group's stance on environment & climate change\"Unilever confirms it has quit BusinessEurope lobby group\", 22 Aug 2014Consumer products giant Unilever has ended its membership of BusinessEurope, hinting at tensions over the lobby group's stance on environmental policies and sustainability issues"
+        },
+        {
+          "text": "A BusinessEurope spokesman declined to comment on the decision, saying only that it was for individual companies to choose whether they wanted to renew their membership"
+        },
+        {
+          "text": " \"It's time to act massively and together, to send a clear message to Nestlé and all those multinational food companies that benefit from the exploitation of children in their supply chains"
+        },
+        {
+          "text": "To date, GAPKI has bristled at policies that would put any restrictions on Indonesia’s palm oil industry, but now that two of the world’s largest traders have made high profile commitments and the Indonesian government is in its third year of a moratorium on new concessions in peatlands and primary forests, the body is facing unprecedented pressure to set basic standards"
+        },
+        {
+          "text": " Meanwhile, efforts by lawmakers to combat climate change pose yet another risk to companies, like oil firms, that make money from products that pollute the environment"
+        },
+        {
+          "text": "Big brands like Procter & Gamble, PepsiCo, Nestlé, and Mars brag about their sustainable palm oil policies, while continuing to profit from FGV’s forced labour"
+        },
+        {
+          "text": "\"Plaintiffs ask this court to construe the [Trafficking Victims Protection Act] to impose liability on any US company that “benefits” from doing business with foreign companies in parts of the world that have arguably suspect labor practices"
+        },
+        {
+          "text": "The radical supply chain transparency solution The latest palm oil supply disclosures from Unilever and Nestlé demonstrate the progress required to meet corporate targets    Unilever describes its latest attempt to create a more transparent supply of palm oil is a “major milestone” not just for its business but for the industry as a whole as it strives to avoid deforestation in commodity supply chains"
+        },
+        {
+          "text": "It’s a similar story at the world’s biggest food business, Nestlé, which also now discloses its list of palm oil suppliers, an initiative of which “top management is fully supportive”, according to Emily Kunen, the company’s global responsible sourcing leader for palm oil"
+        },
+        {
+          "text": "The consumer goods giant now publicly discloses a list of the suppliers and mills from which it directly and indirectly sources palm oil"
+        },
+        {
+          "text": " It’s been a big undertaking, mapping 300 direct suppliers and 1,400 mills, looking not just at where palm oil enters Unilever’s supply chain, but the processors, middle men and agents along the chain"
+        },
+        {
+          "text": "5C goals; investor fossil fuel divestment; and, the good and bad from Know the Chain’s new food and beverage benchmark"
+        },
+        {
+          "text": " The apparent shift comes at a critical time for the industry, which is finally seeing a rally in the price of palm oil after a two-year lull"
+        },
+        {
+          "text": "Over half the world’s palm oil traded internationally is now bound by zero deforestation commitments after Singapore-based Golden-Agri Resources (GAR) extended its forest conservation policy across all palm oil it produces, sources and trades"
+        },
+        {
+          "text": "”The stepped-up policy matches the commitment made by Wilmar, the world’s largest palm oil company, last December and means that over half the world’s palm oil is now covered by zero deforestation pledges"
+        },
+        {
+          "text": "In a filing posted Friday Singapore Stock Exchange, GAR announced its breakthrough forest conservation policy — which when established in 2011 was the first by a palm oil major — now applies to all the palm oil it trades"
+        },
+        {
+          "text": "“Golden Agri-Resources (GAR) is committed to no deforestation palm oil in our entire supply chain,” the company told mongabay"
+        },
+        {
+          "text": " “We are implementing processes to ensure that the palm oil for both our upstream and downstream operations are in line with GAR’s Forest Conservation Policy (FCP)"
+        },
+        {
+          "text": " “This will put a lot more pressure on the other dodgy industry players that continue to destroy forests and peatlands for palm oil production"
+        },
+        {
+          "text": "” GAR says that while expects the extension of its policy to third party suppliers to be a challenge, the decision is a response to “the growing market demand for traceable, deforestation free palm oil” which is increasingly driven by consumer products giants like Unilever, Nestlé, and Kellogg’s"
+        },
+        {
+          "text": "”GAR says success of the policy rests on buy in from communities, which supply the company; the government of Indonesia, where most of GAR’s palm oil is produced; and other industry players, including GAPKI, the Indonesia Palm Oil Association"
+        },
+        {
+          "text": " This criticism — often amplified by images of haze blanketing Southeast Asian cities and pictures of endangered orangutans losing their forest homes — has prompted several major buyers to implement safeguards and traceability standards in an effort to avoid palm oil from “controversial” sources"
+        },
+        {
+          "text": "“GAR now stands alongside Wilmar in applying FCP to all traded oil,” Scott Poynton, the Executive Director of The Forest Trust (TFT), an NGO that is implementing zero deforestation policies for both companies, told Mongabay"
+        },
+        {
+          "text": "A few of the world’s biggest oil companies ― including U"
+        },
+        {
+          "text": " The 2018 agenda will address the big issues, including:Big companies will miss 2020 zero deforestation targets, so what happens next? A pragmatic discussion around how brands can respond and report on missed targets - and the future role of NGOs Forests in climate deals: What the inclusion of forests as part of international agreements on climate change means for business in 2018 and beyondBig banks and deforestation: From policy to implementation – hear what banks are (and aren’t) doing to help stop deforestationYour company’s deforestation strategy:Jurisdictional programs: The role of companies in overcoming implementation challenges when scaling effortsProcurement behaviour: What are the right policies, programs and strategies for your purchasing colleagues to tackle deforestationForest certification: Certification alone is not effective enough"
+        },
+        {
+          "text": "How do you communicate your company's sense of purpose - what you stand for in simple terms - in a way that is authentic, transparent and honest?Increasingly, the answer for many of the world's biggest companies is to highlight their sustainability work"
+        },
+        {
+          "text": "This year's Social Media Sustainability Index takes an exhaustive look at how 475 global companies communicate their sustainability actions and initiatives using social media"
+        },
+        {
+          "text": " 160,000 SumOfUs members like you helped expose FGV, Malaysia’s biggest palm oil producer, in 2015 -- and these sanctions are proof that the industry is finally listening to us"
+        },
+        {
+          "text": "World's largest palm oil trader, which had come under fire from Greenpeace, unveils palm oil supplier monitoring programmeOne of the world's largest palm oil traders, Wilmar International, has promised to step up efforts to combat deforestation and peatland destruction throughout its supply chain in a new supplier monitoring"
+        },
+        {
+          "text": " 14 agreeing that \"Congress certainly has the authority to enact criminal laws with extraterritorial reach\", but added that it \"did not intend to allow private plaintiffs to take advantage of extraterritorial jurisdiction to seek to impose global labor standards on foreign companies\""
+        },
+        {
+          "text": "In August, the four companies -- US-based importers Rubicon Resources and Wales & Co"
+        },
+        {
+          "text": " “Fortunately, in the Trafficking Victim’s Protection Act, Congress gave trafficked workers the tools they need to obtain justice when companies knowingly profit from forced labor in their supply chains"
+        },
+        {
+          "text": "Cocoa sector forest impacts and apparel supply chain circularityThis week: Christine McGrath from Mondelez International and Meghann Jones from Ipsos talk with Ian Welsh about the impacts of Mondelez’s Cocoa Life programme in Ghana and Côte d'Ivoire and debate why a holistic approach is required to achieve corporate deforestation and social goals"
+        },
+        {
+          "text": "How business can tackle deforestationKeep targets on track, manage expectations and demonstrate progress18th-19th April 2018, Washington DCA two-day conference on the big challenges in tackling deforestation, and the solutions that will scale"
+        },
+        {
+          "text": "Procter & Gamble’s villainous palm oil partner FGV, has been sanctioned over multiple human rights violations, including trafficking and forced labour"
+        },
+        {
+          "text": " Although Wilmar has undertaken to preserve high conservation value (HCV) forests and peatland on its own concessions, these areas supply less than 4% of the palm oil it trades and refines, with the remainder being produced by third-party suppliers"
+        },
+        {
+          "text": "Greenpeace believes that Wilmar and the household brands that buy its palm oil must recognise the true costs of irresponsible palm oil production"
+        },
+        {
+          "text": " They need to ensure that their palm oil supply makes a genuine contribution to Indonesia’s development, rather than destroying the future for its people, its wildlife and the global climate on which we all depend"
+        },
+        {
+          "text": " Patrick Anderson, policy advisor, FPP, said in a statement that “this vital judgment from RSPO demonstrates that even the largest companies can’t get away with land grabbing”"
+        },
+        {
+          "text": "  In a decision announced on February 1, the industry association for sustainable palm oil said that Wilmar-owned PT Permata Hijau Pasaman I (PT PHP1) had not followed the proper legal process for obtaining land from the indigenous Kapa community and beginning to plant oil palm on it"
+        },
+        {
+          "text": "    PepsiCo’s palm oil pledge should not exempt Indofood, NGOs say"
+        },
+        {
+          "text": "org, an international consumer watchdog organization which has gathered hundreds of thousands of signatures against PepsiCo’s palm oil commitment, said the policy “falls far short"
+        },
+        {
+          "text": "“It is vital that PepsiCo’s palm oil commitment applies to all suppliers providing palm oil that is used to make PepsiCo branded products sold globally, not just the products made in PepsiCo’s own facilities,” Tillack said"
+        },
+        {
+          "text": "”“This isn’t the first time that PepsiCo customers have forced the food giant to amend its palm oil policy,” Stinebrickner-Kauffman said in a statement, “but each time, PepsiCo fails to address the fundamental problems of rainforest destruction and the fact that workers across Southeast Asia, including children, are trapped in modern slavery in the production of palm oil"
+        },
+        {
+          "text": " The parent company is owned by the Salim Group and is one of the palm oil industry’s largest companies yet to promise to refrain from deforestation and peatlands conversion, whose widespread occurrence is fueling the ongoing wildfire and haze disasters in Sumatra and Borneo"
+        },
+        {
+          "text": "As part of the campaign, RAN and Rainforest Foundation Norway commissioned a sustainability assessment of Indofood’s palm oil operations"
+        },
+        {
+          "text": " It is the call of a group of companies, local authorities and Ong all over Europe, in a letter addressed to European leaders and the EU Commission"
+        },
+        {
+          "text": " In a former factory building in Newark near New York, Rosenberg's company AeroFarms has arranged the vegetable beds in 35 rows on well over 6400 square meters in a neatly arranged side-by-side"
+        },
+        {
+          "text": " The company's own think tank \"\" Space10 \" developed the plan for the oversized setting box for everyone"
+        },
+        {
+          "text": " At present, Carrefour's policy is to raise customers' awareness of the danger of Roundup, while at the same time offering alternatives to the most dangerous pesticides"
+        },
+        {
+          "text": "Unilever’s attempt to mitigate the environmental impact of its tea bags comes in the same week that Starbucks announced it was introducing a five pence (seven cents) paper cup charge in 35 of its stores across London, with proceeds from the levy to be donated to environmental charity Hubbub"
+        },
+        {
+          "text": "Cargill has suspended business with a major Guatemalan palm oil supplier that has been accused of human rights violations and environmental degradation, an uncommon move by the agribusiness giant"
+        },
+        {
+          "text": "Minnetonka-based Cargill is one of the world’s largest traders of palm oil, which is used in all sorts of food from cookies to cakes and ice cream, as well as in cosmetics"
+        },
+        {
+          "text": " So Cargill and other companies in the palm oil industry — prodded by environmental and human rights activists — have set up “sustainability” codes for their suppliers"
+        },
+        {
+          "text": " (REPSA), saying it would not enter any new purchase contracts until the Guatemalan company can meet the “requirements of our sustainable palm oil policy,” said a Cargill review laying out the decision"
+        },
+        {
+          "text": "Within the past two weeks, another palm oil industry giant, Singapore-based Wilmar International, says it has “put on hold” purchases from REPSA"
+        },
+        {
+          "text": "Cargill’s suspension of business with REPSA sends an important signal to the palm oil industry, said Jeff Conant, senior international forests program director for Friends of the Earth, one of several environmental and human rights groups that have pushed Cargill and other palm oil manufacturers to pressure their suppliers"
+        },
+        {
+          "text": "” Cargill has been working with REPSA since December 2015 to get the palm oil supplier to comply with its sustainability policies"
+        },
+        {
+          "text": "Choc and other local activists in the Petén region claimed that millions of fish died due to effluent discharged into the river from a REPSA palm oil operation"
+        },
+        {
+          "text": "Indeed, Cargill has only once suspended business with a palm oil supplier, IOI Group, a measure it took in May 2016 over environmental concerns"
+        },
+        {
+          "text": " Several other palm oil buyers took the same action against IOI Group, a large Malaysian company, after it allegedly chopped down part of an Indonesian rain forest to plant palm trees"
+        },
+        {
+          "text": " Cargill owns palm oil plantations in Indonesia, but as a palm oil refiner, manufacturer and trader, it buys from other plantations worldwide"
+        },
+        {
+          "text": " Central America has become a significant source of palm oil over the past 25 years or so, and Guatemala is the region’s top palm oil exporter"
+        },
+        {
+          "text": "In 2004, corporations and nongovernmental groups created the Roundtable on Sustainable Palm Oil, which is aimed at making the palm oil industry more socially responsible"
+        },
+        {
+          "text": " Cargill was one of the first corporations to join the group, and in 2014 the company announced an updated palm oil policy committed to “deforestation-free, socially responsible palm oil,” according to Cargill’s website"
+        },
+        {
+          "text": "The company maintains a log of grievances lodged against its palm oil suppliers"
+        },
+        {
+          "text": " Felda is a Malaysian company that was featured prominently in a 2015 Wall Street Journal story about worker abuses in Southeast Asia’s palm oil industry"
+        },
+        {
+          "text": "But the palm oil supplier fell short on “several key expectations,” and Cargill cut off business “effective immediately” on Nov"
+        },
+        {
+          "text": " The ruling was quickly followed by the kidnappings of three local human rights activists and Choc’s killing near a courthouse in Sayaxché, a poor city with a largely indigenous population"
+        },
+        {
+          "text": "\"After an intense campaign by Greenpeace, Wilmar International, the world's largest palm oil operator (markets 40 percent of this raw material), it has published in the last few hours a detailed action plan to map and monitor its suppliers"
+        },
+        {
+          "text": "Palm oil companies in Guatemala “are operating in very complicated environments,” according to a 2014 report by Verite, a Massachusetts-based nonprofit research and advocacy group for workers"
+        },
+        {
+          "text": "“Cargill is among the global agribusiness companies that have tried to dissociate themselves from human rights exploitation, and by making this definitive break with REPSA, they are showing they are serious,” Conant said"
+        },
+        {
+          "text": "This is particularly true for the many companies that are coming up on deadlines for their 2020 sustainability goals, and whose leaders want to join forces with likeminded peers"
+        },
+        {
+          "text": " The program has been developed to enhance the effectiveness of its current policy No Deforestation, no Peat, no Exploitation (NDPE), while it also plans to provide remedies for past deforestation by its third suppliers"
+        },
+        {
+          "text": "Companies that source palm oil have options to engage in jurisdictional initiatives in Sabah, Malaysia, or North Sumatra, Indonesia"
+        },
+        {
+          "text": "By throwing their weight behind this strategy and by using actual market signals, these multinationals are showing industry at large how to meet deforestation reduction efforts in a meaningful way"
+        },
+        {
+          "text": "Unilever’s “ultimate ambition is to help drive a sustainable palm oil industry,” the company’s chief sustainability officer, Jeff Seabright, said at the time of his company’s announcement at the Global Climate Action Summit"
+        },
+        {
+          "text": "Ways to engageWith investors, customers and employees expecting more from companies these days, the strategic push to collaborate with local jurisdictions to strengthen deforestation policies and accountability should come as welcome news"
+        },
+        {
+          "text": "Forward-looking companies not only get that we must rein in emissions; they also want low-risk supply chains"
+        },
+        {
+          "text": "Turkey: Nestle and Ferrero amid allegations of labour abuse towards Syrian refugee hazelnut farmersOn the 28th of April 2019, the New York Times published a  report by David Segal investigating the working conditions of Syrian refugees who perform backbreaking labor on the farms that produce 70 percent of the world’s hazelnuts for confectionery companies like Nestle, Godiva, and Nutella"
+        },
+        {
+          "text": " The investigation highlights several human rights concerns for refugees, displaced by the Syrian war in the 600,000 hazelnut farms scattered throughout Turkey"
+        },
+        {
+          "text": "” And unchecked multibillion-dollar companies, as we all know, aren’t known for their benevolent oversight and fair treatment of workers"
+        },
+        {
+          "text": " As such, Turkey’s Labor Code does not apply to agricultural businesses with fewer than 50 employees, so much of the policing of this crop falls to confectionery companies"
+        },
+        {
+          "text": "Among the changes, Wilmar will no longer buy palm oil from suppliers found to be violating its policy, but will suspend purchases from them instead"
+        },
+        {
+          "text": "Wilmar also appeared to acknowledge the presence of “shadow companies” in Indoensia’s plantation sector"
+        },
+        {
+          "text": " Member of the RSPO (that is, the round table for sustainable palm oil) since 2005"
+        },
+        {
+          "text": "\" So the international environmental organization opens a statement in which it sings victory for the \"capitulation\" of the world giant of palm oil"
+        },
+        {
+          "text": " 10, 2018, the corporation declares launching a new \"programme of monitoring and involvement of suppliers\" to \" accelerate its efforts towards a palm oil industry free from deforestation"
+        },
+        {
+          "text": " \" A commitment that therefore refers to the future, but also makes commitments to the past, and that Wilmar is expected to implement on the basis of a detailed agreement signed with the Environmental Sustainability Group Aidenvironment has among its partners also Chain Reaction Research, an organization that authored numerous reports of denunciation of greenfield practices and the darkest sides of the main players in the sector, operating mainly in Southeast Asia"
+        },
+        {
+          "text": " The multinational oil palm oil company Wilmar International in figures, from the company's profile the 12-12-201824 million hectares of rainforest, just under the surface of the entire United Kingdom, were razed to the ground between 1990 and 2015 (official data from the Indonesian Government reported by the Final Countdown Report)"
+        },
+        {
+          "text": " By the end of 2017 it had a total area cultivated by oil palm oil of almost 240,000 hectares (68% in Indonesia, 24% in Malaysian Borneo, 8% in Africa) "
+        },
+        {
+          "text": " A very serious problem, as the latter cover 80% of its supply of oil products major financial data from the multinational oil palm oil Wilmar International, from the company's profile the 12-12-2018-http://ir-media"
+        },
+        {
+          "text": " \"All five companies continue to call for the establishment of a common labelling scheme across the EU and express the will to support the process"
+        },
+        {
+          "text": " But now in the crosshairs, \" We expect that the announcement of Wilmar sprons Golden Agri Resources, Musim Mas and other international palm oil operators to adopt similar commitments"
+        },
+        {
+          "text": " The only mistake of this 31-year-old woman is that she was elected to the head of a union representing factory workers"
+        },
+        {
+          "text": " We are pleased-therefore they conclude European consumers-that companies will finally recognize that colour coding is the right tool for informing consumers about nutritional content"
+        },
+        {
+          "text": " This means that, on a one-year scale, experts have estimated the end of resources for this beginning of the eighth month"
+        },
+        {
+          "text": "Global Canopy’s Forest 500 annual report for 2018 has found that companies are more likely to have a commitment for palm oil than for any other commodity"
+        },
+        {
+          "text": " Companies across the supply chain must work together to increase the demand and production of sustainable palm oil"
+        },
+        {
+          "text": " Forty two percent of Forest 500 companies involved in palm oil supply chains have committed to protecting these areas, with 88% mentioning both types of landscape"
+        },
+        {
+          "text": " To warn about the depletion of resources"
+        },
+        {
+          "text": " In connection with resource depletion"
+        },
+        {
+          "text": "The Forest 500 2018 annual assessment shows that companies are more likely to have a commitment for palm oil than for other commodities, but many companies still have no commitments or are not doing enough to implement the commitments they have made"
+        },
+        {
+          "text": " But only 19 companies achieved the top score of 5/5 for their palm oil commitments, which means many of the companies with the greatest power to drive change are not doing enough"
+        },
+        {
+          "text": "Forest 500 ranks the forest-risk commodity policies of the most influential companies and financial institutions acting in the global palm oil, soy, cattle and timber supply chains"
+        },
+        {
+          "text": "Whole sector still needs to do moreIn total 196 companies are assessed for palm oil, with these commitments consistently stronger, and scoring higher than for other commodities"
+        },
+        {
+          "text": "But while the leading companies score well on their palm oil commitments – 93% for Nestlé and 89% for Unilever for example – the average for all of the 196 palm oil companies assessed is just 34%"
+        },
+        {
+          "text": "More than a quarter of all the companies ranked for palm oil scored 0% (51 companies)"
+        },
+        {
+          "text": "ZSL SPOTT’s palm oil technical advisor Michael Guindon said the 2018 results showed the need for greater urgency in company action:“While the Forest 500 results show that palm oil companies are leading the way, there is much left to be done before deforestation- and exploitation-free palm oil becomes the norm"
+        },
+        {
+          "text": "Almost all of the palm oil companies assessed by Forest 500 that have a forest-related commitment for palm oil use Roundtable on Sustainable Palm Oil (RSPO) certification to meet that commitment (89%)"
+        },
+        {
+          "text": " This now means that certification and credits from that date can show that a company’s palm oil is deforestation-free"
+        },
+        {
+          "text": "More action neededIt is clear that while companies are doing more to address deforestation in their palm oil supply chains than elsewhere, much still remains to be done, and the clock is ticking"
+        },
+        {
+          "text": "In 2018 we found that just 16% of the companies with a commitment not to source palm oil from land that had been cleared of High Carbon Stock Forests reported on how well they were meeting that commitment"
+        },
+        {
+          "text": " These companies, a significant part of the palm sector are yet to publicly recognise deforestation risks in their supply chains, let alone do anything to address these risks"
+        },
+        {
+          "text": " For the first time, the 2018 Forest 500 assessment scores companies on how they report on implementing their commitments"
+        },
+        {
+          "text": " Where a commitment will not be fully met by the 2020 deadline, companies should report on the progress they have made towards implementation"
+        },
+        {
+          "text": " Sustainable transport group Transport & Environment (T&E) welcomes the proposal but cautions that the Commission’s plan falls short of the ambition demanded by hauliers and businesses and what’s needed to hit the EU’s own climate goals"
+        },
+        {
+          "text": " However, T&E warns that the Commission’s plan to outsource the development of the safety standards to a secretive UN body known as UNECE, which is dominated by vehicle makers, risks making the standard meaningless"
+        },
+        {
+          "text": " We therefore welcome this 3rd Mobility Package; since 2014 we have reduced CO2 within our European transport operations by 15% per tonne of product, and by having more fuel efficient trucks on the road we will be able to accelerate our reduction in CO2 emissions in the future"
+        },
+        {
+          "text": "It has been signed by the chiefs of Anglian Water, Coca-Cola European Partners, Danone, IAG, Interface, ScottishPower, Signify UK & Ireland, SSE, Thames Water Utilities Ltd and Unilever"
+        },
+        {
+          "text": "Twelve companies have today committed to using 100 per cent recyclable packaging by 2025"
+        }
+      ]
+    },
+    {
+      "intent": "Oui_MANA",
+      "examples": [
+        {
+          "text": " “APP has halted its own forest clearing and embarked on a wide array of assessments in its concessions,” said Aditya Bayunanda, Forest Commodity Leader WWF-Indonesia"
+        },
+        {
+          "text": " Sign the petition to demand the RSPO suspends Nestlé’s business partner Indofood"
+        },
+        {
+          "text": "A Rainforest Alliance audit released today confirmed the findings by WWF and local NGOs that APP is failing to stop deforestation and illegal activities in its concessions by other parties, even in areas already identified by the company as containing high conservation values and carbon stocks"
+        },
+        {
+          "text": "Unilever, Hershey’s, Colgate-Palmolive, Johnson & Johnson, Procter & Gamble, SC Johnson, Yum! Brands and Reckitt Benckiser are some of the palm oil buyers that have already moved to disengage with IOI"
+        },
+        {
+          "text": " Even in APP’s priority landscape, Bukit Tigapuluh, the company has yet to take promised steps to provide wildlife corridors and stop illegal loggers, poachers and encroachers from accessing the forest through its logging road"
+        },
+        {
+          "text": " “APP customers should be alert to the risk of doing business with a company that has not yet eliminated deforestation and peat carbon emissions from its wood supply areas"
+        },
+        {
+          "text": " In addition to the concerns about potential future deforestation, the NGOs highlighted APP’s contribution in jeopardizing Indonesia’s climate commitments by having more than 60 per cent of its huge land bank on peatland"
+        },
+        {
+          "text": " After decades of destroying the environment and causing conflict with local communities, APP is urged to take these concerns seriously and start acting"
+        },
+        {
+          "text": "The global agribusiness Bunge is the latest palm oil user to sanction IOI Group, the Malaysian producer that lost its Roundtable on Sustainable Palm Oil (RSPO) certification in March over environmental destruction in Indonesia"
+        },
+        {
+          "text": "Can you help make this victory count by signing the petition telling Pepsi to distance itself from the toxic palm oil company for good?Our allies at Rainforest Action Network first revealed Indofood’s abuses two years ago"
+        },
+        {
+          "text": "Update: The RSPO's Complaints Panel meeting is just days away - where they can decide to suspend Indofood"
+        },
+        {
+          "text": "Tell Pepsi to end its business partnership with Indofood for good!Over 240,000 SumOfUs members signed the petition demanding the Roundtable on Sustainable Palm Oil (RSPO) take action against the industry laggard, for exploiting its workers and destroying Indonesia’s rainforest"
+        },
+        {
+          "text": " Please sign the petition and help force Pepsi to terminate its business deal with Indofood once and for allWe know our people-powered campaigning can push big brands into action"
+        },
+        {
+          "text": " Last year a huge SumOfUs petition shone light on another one of Nestlé’s dodgy palm oil partners -- REPSA in Guatemala"
+        },
+        {
+          "text": "Owned by Indonesia’s richest man, Indofood has been exposed in multiple investigations for exploiting workers, paying poverty wages (and female workers even less), dangerous working conditions, and intimidating communities off their land for illegal deforestation"
+        },
+        {
+          "text": " It also ignores the RSPO’s guidelines on protecting precious orangutan habitat and is guilty of logging on carbon-rich peat land, intensifying climate chaos"
+        },
+        {
+          "text": " There’s very little time before Nestlé’s and Pepsi's business partner gets its verdict, so please sign the petition now"
+        },
+        {
+          "text": " The Indonesian giant has got away with rainforest destruction and worker abuse for too long"
+        },
+        {
+          "text": " Together, we can expose the RSPO’s greenwashing and put its reputation at risk so it doesn’t stick to business as usual and overlook Indofood’s gross violations"
+        },
+        {
+          "text": "IOI has long been the target of environmentalists, who have previously accused it of felling forests and draining peatlands in Malaysian Borneo, while allegations of deforestation in IOI concessions in Ketapang, West Kalimantan, were submitted in a formal complaint to the RSPO by a sustainability consultancy in 2015"
+        },
+        {
+          "text": "  PepsiCo can’t keep hiding behind its RSPO sustainable “certification” -- a broken system that lets companies like PepsiCo greenwash their real ties to conflict palm oil"
+        },
+        {
+          "text": " As long as it does business with Indofood, PepsiCo is complicit in the destruction of precious rainforest in Indonesia’s Leuser Ecosystem"
+        },
+        {
+          "text": " Using satellite data, photographic evidence and GPS coordinates, the research builds on evidence gathered earlier this year to show ongoing illegal forest clearances across swathes of the 2"
+        },
+        {
+          "text": " Unless we do something now to stop the deforestation that has robbed them of their native habitat, they will be gone within decades"
+        },
+        {
+          "text": "Sign this petition to demand that PepsiCo stop buying palm oil from companies that clear cut rainforests and endanger the elephants"
+        },
+        {
+          "text": " However, detailed field studies of GAR operations in Indonesia show numerous legal violations"
+        },
+        {
+          "text": "Banktrack Network, which camapigns on the operations and investments of private sector banks and their effect on people and the planet, sent a global alert to the three banks on the risks of such investments to alert potential financiers to the \"extreme and outstanding social conflicts in the palm oil agribusiness sector"
+        },
+        {
+          "text": " \"At this moment, an investment in Golden Agri-Resources is an investment in forest destruction and human rights violations\", said Jeff Conant, international forests campaigner at Friends of the Earth"
+        },
+        {
+          "text": "5 billion syndicated loan for the palm oil giant Wilmar International are apparently reconsidering the deal due to concerns about land grabbing and other human rights abuses connected to the company’s investments in Liberia"
+        },
+        {
+          "text": "The environmental, social and reputational risks of financing Wilmar are not limited to Liberia: In February 2017, the Roundtable on Sustainable Palm Oil (RSPO) found that Wilmar had illegally appropriated land from indigenous people in West Sumatra, Indonesia, without securing their free, prior and informed consent, in a rare finding of culpability against a major palm oil producer"
+        },
+        {
+          "text": "“Any loan to Wilmar must be conditioned on the remediation of harms and human rights abuses caused by Maryland Oil Palm Plantation to communities in Liberia and an immediate halt to the ongoing use of security personnel to harass and intimidate the local population,” said Francis Colee, Head of Programs at Green Advocates International, a Liberian civil society organization"
+        },
+        {
+          "text": "”Liberian civil society organizations and community leaders warned lenders about the human rights and environmental violations associated with the plantation in a June 8 letter"
+        },
+        {
+          "text": "London, UK – A palm oil supplier to Mars, Nestlé, PepsiCo and Unilever is destroying rainforests in Papua, Indonesia, a new investigation by Greenpeace International has revealed"
+        },
+        {
+          "text": " Members of the RSPO are not allowed to have unaffiliated palm oil divisions, and the development witnessed in PT MJR would also violate several of the RSPO’s Principles and Criteria"
+        },
+        {
+          "text": "Developed by Friends of the Earth Europe, Friends of the Earth Netherlands (Milieudefensie), Friends of the Earth US and Friends of the Earth Indonesia (WAHLI), the report is based on research into five palm oil plantations owned by Bumitama and Wilmar International in Indonesia"
+        },
+        {
+          "text": " They are calling on organisers to demand companies “come clean on criminal negligence, social injustice and environmental destruction before lecturing on how to make ecosystem protection compatible with corporate profiteering”"
+        },
+        {
+          "text": " Despite new evidence that both companies violate their own ‘no deforestation’ policies, this report says major U"
+        },
+        {
+          "text": " [2]Problems in Papua…Numerous complaints have been filed against Daewoo’s subsidiaries in Papua"
+        },
+        {
+          "text": "It calls on these companies not to send their marks with the destruction of the forests of Indonesia"
+        },
+        {
+          "text": " In Indonesia, the destruction of tropical forests for the cultivation of palm oil shows no signs of slowing down"
+        },
+        {
+          "text": " Wilmar's general manager responsible for Indonesia's palm oil trade, Darwin Indigo, is the son of Gama's co-founder, Ganda, and also manages at least one Gama company"
+        },
+        {
+          "text": " Silva Rimba Lestari of Djarum Group, had cleared nearly 32,000 hectares of natural forest in violation of APP’s FCP"
+        },
+        {
+          "text": " Global appetites for the commodity have been associated with large scale deforestation in areas including Indonesia and Malaysia"
+        },
+        {
+          "text": "Yes, today the Oreo cookie is known to deforestation"
+        },
+        {
+          "text": "We’ve proven Indofood’s human rights abuses and rainforest destruction"
+        },
+        {
+          "text": " The report also reveals that twenty-five major palm oil producers are responsible not only for deforestation, for illegal expansion of their plantations and fires, but also for exploitation of workers"
+        },
+        {
+          "text": " The refinery, located on the Indonesian island of Sulawesi, works the palm oil of three of the producers mentioned in the report \"Final Countdown\" because guilty of the destruction of the rainforests on the Indonesian islands of Kalimantan and Papua"
+        },
+        {
+          "text": " His brother-in-law, Hendri Saksti, head of Wilmar in Indonesia and manager of Gama Plantation, a company related to palm oil responsible for massive deforestation in Indonesia has also resigned"
+        },
+        {
+          "text": " Last month, Greenpeace broke relations with Asia Pulp and Paper , the largest paper company in Indonesia, after  detecting deforestation  in two concessions related to APP and its parent company, the Sinar Mas Group"
+        },
+        {
+          "text": " For years, Wilmar and Gama have worked together, with Gama doing the dirty work to make Wilmar's hands look clean"
+        },
+        {
+          "text": " This Gama company has deforested more than 25,000 hectares in the province of West Papua (Indonesia) since 2013, the year in which Wilmar committed to end its links with deforestation"
+        },
+        {
+          "text": " Colgate-Palmolive, General Mills, Hershey, Kellogg's, Kraft Heinz, L'Oreal, Mars, Mondelez, Nestle, PepsiCo, Reckitt Benckiser and Unilever have purchased palm oil from at least twenty of these producers"
+        },
+        {
+          "text": "In 2013, Greenpeace International revealed that Wilmar - the agro business giant and the world's leading palm oil operator - and its suppliers were responsible for deforestation, peat fires and massive destruction of the Sumatran tiger habitat"
+        },
+        {
+          "text": "The announcement of the Indonesian government arrived the day after the launch of the \" Final countdown \" Greenpeace report , which denounces the destruction of 130,000 hectares of rainforest since 2015, 40% of which in Papua, one of the richest biodiversity regions of the Planet"
+        },
+        {
+          "text": " Wilmar must immediately cut off all palm oil suppliers who can not prove that they are not destroying rainforests , \"says Kiki Taufik, head of Indonesia's Southeast Asian Greenpeace forest campaign"
+        },
+        {
+          "text": " Despite this, the destruction of Indonesian rainforests, due to the expansion of oil palm plantations, showed no sign of slowing down"
+        },
+        {
+          "text": " New research from Greenpeace International has revealed that Wilmar International , the world's largest palm oil distributor and supplier of international brands such as Nestlé, Unilever or Procter & Gamble, continues to destroy the Indonesian rainforest almost five years after having committed to stop deforestation"
+        },
+        {
+          "text": "Wilmar also has a history of evading her responsibilities for environmental and human rights abuses by selling her most controversial concessions to Gama"
+        },
+        {
+          "text": "This industrial giant caught red-handed in the international market, is the supplier of palm oil to major international brands such as Colgate-Palmolive, Hershey, Kellogg's, L'Oréal, Mars, Mondeléz, Nestlé, PepsiCo, Procter & Gamble, PZ Cussons, Reckitt Benckiser and Unilever"
+        },
+        {
+          "text": " Because Wilmar had committed to zero deforestation policies, he had delegated the dirty work to Gama Plantation"
+        },
+        {
+          "text": "Your favourite packet of chips or muesli bar snack could contain palm oil – a $65 billion industry which is destroying rainforests and threatening the survival of orangutan populations"
+        },
+        {
+          "text": "For example, Doritos contain “vegetable oil” and Colgate toothpaste has “glycerin” – both of which are terms commonly used to describe palm oil content in ingredient lists"
+        },
+        {
+          "text": "PepsiCo, Kellogg’s, Ferrero (which makes Nutella), Kraft Heinz, Johnson & Johnson, Hershey, PZ Cussons and Smucker’s remain secretive about their sourcing of palm oil"
+        },
+        {
+          "text": "The environmental concerns lie with brands buying palm oil from companies destroying rainforests, home to an array of wildlife"
+        },
+        {
+          "text": "Wilmar International’s chairman and chief executive Kuok Khoon Hong said in a statement that he felt “compelled” to bolster the company’s sustainability ambitions in light of recent research suggesting that palm oil-led deforestation is rising globally"
+        },
+        {
+          "text": " But Greenpeace said Wilmar’s new commitment is a “potential breakthrough” for the palm oil industry, as the use of satellites will make it impossible for Wilmar or its suppliers to get away with forest clearing undetected"
+        },
+        {
+          "text": " Greenpeace said that Wilmar’s commitment puts pressure on the rest of the sector, including other big palm oil companies such as Golden Agri Resources and Musim Mas, which it says continue to source oil from suppliers linked to deforestation"
+        },
+        {
+          "text": " But the company has been continually linked to illegal forest clearing through its suppliers"
+        },
+        {
+          "text": " Expansion of oil palm and pulpwood plantations was responsible for nearly two-thirds of the destruction of tiger habitat from 2009 to 2011, the most recent period for which official Indonesian government data are available"
+        },
+        {
+          "text": "Greenpeace’s investigations have revealed that household names including Colgate Palmolive, Mondelez International (formerly Kraft), Neste Oil, Procter & Gamble, Reckitt Benckiser and a host of other companies are linked to Singapore-based Wilmar International Ltd and its international trade in dirty palm oil"
+        },
+        {
+          "text": "Perhaps, as of this day, we will know that, beyond eating or eating a simple cookie, it is obligatory to ask the manufacturer whether he is or is unwilling to curb the destruction of the planet"
+        },
+        {
+          "text": " In relation to Wilmar, Greenpeace has documented deep peatland fires in oil palm concessions; wholesale rainforest destruction and illegal oil palm plantations within the Tesso Nilo National Park, harvests from which have previously been tracked to Wilmar’s own mills and which continue to feed into Indonesia’s palm oil supply chain; and extensive clearance of both tiger and orang-utan habitat"
+        },
+        {
+          "text": " Wilmar is known to own, have a significant stake in or trade with most of the producers Greenpeace has documented as engaging in such irresponsible or illegal activities"
+        },
+        {
+          "text": " Such destruction fragments the extensive tracts of rainforest over which tigers need to range in order to hunt"
+        },
+        {
+          "text": "Sign the petition telling Pepsi’s departing CEO’s Indra Nooyi to cut ties with palm oil vilain IndoFood and fix Pepsi’s palm oil policy for good"
+        },
+        {
+          "text": "Can you sign the petition to push Indra Nooyi to make her final act count for the planet and the people?"
+        },
+        {
+          "text": "Pepsi profits from palm oil destruction through its Joint Venture Partnership with IndoFood"
+        },
+        {
+          "text": "The big issue clouding Nooyi’s legacy? Pepsi’s business partnership with Indonesian palm oil vilain IndoFood -- guilty of destroying rainforests and ongoing human rights abuses on its plantations"
+        },
+        {
+          "text": "Wilmar also has a history of evasion of his responsibilities for environmental and human rights abuses through the sale of his most controversial concessions to Gama"
+        },
+        {
+          "text": "A new research by Greenpeace International has revealed that Wilmar International, the world's largest palm oil distributor and supplier of international brands such as Nestle, Unilever or Procter & Gamble, continues to destroy Indonesia's rainforest almost five years after it was committed to halting deforestation"
+        },
+        {
+          "text": "Five years ago, the company promised to sell palm oil free of deforestation, but Greenpeace says it has consistently failed to comply"
+        },
+        {
+          "text": "The analysis of trade data shows that Wilmar continues to sell palm oil from the He loves many of the great international brands, despite knowing that Gama was in violation of Wilmar's NDPE policy of non deforestation"
+        },
+        {
+          "text": "Last month, Greenpeace broke ties with Asia Pulp and Paper, Indonesia's largest paper company, after deforestation was detected in two APP-related concessions and its parent company, the Sinar Mas"
+        },
+        {
+          "text": "A three judge panel of the Ninth Circuit Court of Appeals ruled on October 23, 2018 that the IRAdvocates’ lawsuit on behalf of former child slaves against Nestle and Cargill for using child slaves in Cote D’Ivoire to harvest cocoa can proceed under the Alien Tort Statute (ATS), 28 U"
+        },
+        {
+          "text": "Finally, “Ferrero is committed to working on the challenges to end deforestation in the cocoa sector” is not the same as committing to end all deforestation in your supply chain with a time-bound plan for this year and beyond"
+        },
+        {
+          "text": "His brother-in-law, Hendri Saksti, head of Wilmar in Indonesia and manager of Gama Plantation, a company related to palm oil responsible for massive deforestation in Indonesia has also resigned"
+        },
+        {
+          "text": "This action comes a little over two years after the Rainforest Action Network (RAN), the Indonesian Labour Rights Association (OPPUK), and the International Labour Rights Forum (ILRF) filed a complaint in October 2016 with the RSPO on the grounds that Indofood and PepsiCo, one of its customers, violated labour laws on palm oil plantations"
+        },
+        {
+          "text": "While examining IndoAgri facilities, which included one palm oil mill and three palm oil estates, the RSPO found more than 20 violations of its standards and ten violations of Indonesian labor laws, including gender discrimination, low pay and poor safety conditions"
+        },
+        {
+          "text": "”The report also noted that the scale of deforestation linked to Mondelēz, whose brand portfolio also includes Cadbury’s and Toblerone, might be greater than what Greenpeace had unearthed"
+        },
+        {
+          "text": "Mondelēz International, the company behind Oreo cookies and Ritz crackers, continues to source palm oil linked to deforestation in Indonesia, according to a Greenpeace report"
+        },
+        {
+          "text": "JAKARTA — A new report has linked Mondelēz International, the food giant behind such iconic snacks as Oreo cookies and Ritz crackers, to large-scale deforestation in Indonesia"
+        },
+        {
+          "text": "On Wednesday, the environmental group sent out a press release accusing four of the world’s largest candymakers of “hiding rainforest destruction in Halloween candy"
+        },
+        {
+          "text": "Production of the popular snack food ingredient is among the leading causes of deforestation in Southeast Asia, due to companies bulldozing biodiversity-rich rainforests to build plantations"
+        },
+        {
+          "text": "” Though they’ve all made public commitments to fighting deforestation, RAN said, Nestlé, Mars, Mondelēz, and Hershey’s are all doing business with a firm that’s bulldozing a tropical rainforest in Indonesia"
+        },
+        {
+          "text": "” A spokesperson for Mars said the company has “stopped sourcing from PT Surya Panen Subur II given evidence of illegal deforestation"
+        },
+        {
+          "text": "Since the initial complaint, RAN, OPPUK and ILRF further exposed IndoAgri’s violations in subsequent reports"
+        },
+        {
+          "text": "In addition, Mondelez's palm oil suppliers have also been charged with child labor, exploitation of workers, illegal deforestation, forest fires, and land acparation"
+        },
+        {
+          "text": "Mondelez knows that his suppliers, with Wilmar International to the head, are not assuring him that his palm oil does not come from deforestation and the destruction of the habitat of orangutanes"
+        },
+        {
+          "text": " It is also the most comprehensive assessment of deforestation in Papua, Indonesia"
+        },
+        {
+          "text": "In practice, this means that the plantations and producer groups of which Mondelez is mainly supplied do not have a sustainable management model or exclude the destruction of the tropical"
+        },
+        {
+          "text": "While today’s announcement is a step in the right direction, the company needs to scale up its efforts toward reusable systems rather than grasping at a quick fix that could cause further environmental disaster such as deforestation"
+        },
+        {
+          "text": "The petition claims that Unilever’s failed trial remediation of the environment in November 2017 ended up mobilising more mercury into the environment that it recovered, because it deployed a substandard process"
+        },
+        {
+          "text": "The report also reveals that twenty-five major palm oil producers are responsible not only for deforestation, for illegal expansion of their plantations and fires, but also for exploitation of workers"
+        },
+        {
+          "text": "Greenpeace says palm oil trader Wilmar still buys from Indonesian suppliers involved in worker exploitation, community conflicts, deforestation"
+        },
+        {
+          "text": "Last month, Greenpeace broke relations with Asia Pulp and Paper , the largest paper company in Indonesia, after  detecting deforestation  in two concessions related to APP and its parent company, the Sinar Mas Group"
+        },
+        {
+          "text": "For years, Wilmar and Gama have worked together, with Gama doing the dirty work to make Wilmar's hands look clean"
+        },
+        {
+          "text": "New research from Greenpeace International has revealed that Wilmar International , the world's largest palm oil distributor and supplier of international brands such as Nestlé, Unilever or Procter & Gamble, continues to destroy the Indonesian rainforest almost five years after having committed to stop deforestation"
+        },
+        {
+          "text": "Five years ago, the company undertook to sell palm oil free of deforestation , but Greenpeace reveals that it has systematically failed to comply with its obligations"
+        },
+        {
+          "text": "The analysis of the trade data shows that Wilmar continues to sell palm oil from Gama to many of the major international brands, despite knowing that Gama violated Wilmar's NDPE policy of non-deforestation"
+        },
+        {
+          "text": "Fictional companiesThe plantation sector of Southeast Asia is famous for the use of fictitious companies managed by managers or family members to hide deforestation"
+        },
+        {
+          "text": "Because Wilmar had committed to zero deforestation policies, he had delegated the dirty work to Gama Plantation"
+        },
+        {
+          "text": "On June 25, Greenpeace published an investigation that stated that the company Wilmar International, the largest distributor of palm oil in the world, continued to destroy Indonesia's rainforest, almost five years after having committed to stop deforestation"
+        },
+        {
+          "text": "This Gama company has deforested more than 25,000 hectares in the province of West Papua (Indonesia) since 2013, the year in which Wilmar committed to end its links with deforestation"
+        },
+        {
+          "text": "Wilmar belongs to the Round Table for Sustainable Palm Oil (RSPO) , a palm oil certification system that has made very little progress so far to prevent deforestation"
+        },
+        {
+          "text": "Against this background, we are asking palm oil brands and retailers to suspend their business with Wilmar until this company seriously addresses the violations of its policy of non-deforestation, beginning by making public the maps of its forest concessions of all the groups of producers within its supply chain"
+        },
+        {
+          "text": "Last month, non-government organisation (NGO) Greenpeace scaled Wilmar’s refineries in Indonesia in protest against the company’s ties to deforestation and slammed a commitment Wilmar made in October to have a deforestation-free supply chain by 2020, saying the pledge did not go far enough to ensure its suppliers would comply"
+        },
+        {
+          "text": "Greenpeace said that Wilmar’s commitment puts pressure on the rest of the sector, including other big palm oil companies such as Golden Agri Resources and Musim Mas, which it says continue to source oil from suppliers linked to deforestation"
+        },
+        {
+          "text": "But the company has been continually linked to illegal forest clearing through its suppliers"
+        },
+        {
+          "text": "Indofood’s announcement that it will withdraw the RSPO membership of its subsidiary London Sumatra rather than address its labor abuses is a dangerous precedent that you cannot allow"
+        },
+        {
+          "text": "due to concerns over ongoing deforestation and human rights abuses within its operations"
+        },
+        {
+          "text": "”Averbeck pointed to Indofood’s history of labour and environmental violations, which have been exposed in numerous reports by NGOs such as RAN"
+        },
+        {
+          "text": "A Greenpeace investigation has exposed how the world’s biggest brands are still linked to rainforest destruction in Indonesia"
+        },
+        {
+          "text": "L'announcement of the Indonesian government came the day after the launch of the Greenpeace report \"Final countdown,\" which reports the destruction of 130,000 hectares of rainforest since 2015, 40% of them in Papua, one of the richest regions of biodiversity in the planet"
+        },
+        {
+          "text": " Despite this, the destruction of the Indonesian rainforests, due to the expansion of palm oil plantations from oil, has shown no signs of slowing down"
+        },
+        {
+          "text": "The investigation revealed instances of forced labour, dangerous working conditions and poverty-level wages that resulted in the NGOs leading a joint complaint in 2016 to the Roundtable on Sustainable Palm Oil"
+        },
+        {
+          "text": "Robin Averbeck from the Rainforest Action Network, a US-based non-government organisation (NGO) that has actively campaigned against Indofood for years, called the decision by Nestlé a strong move, adding: “No company, bank or certification system which espouses commitments to uphold human rights and stop deforestation should continue to be in business with Indofood"
+        },
+        {
+          "text": " The refinery, which is on the Indonesian island of Sulawesi, was processing palm oil from major producers that are destroying rainforests in Kalimantan and Papua, Indonesia"
+        },
+        {
+          "text": "Greenpeace International assessed deforestation by 25 major palm oil producers and found that:25 palm oil groups had cleared over 130,000ha of rainforest since the end of 201540% of deforestation (51,600ha) was in Papua, Indonesia – one of the most biodiverse regions on earth and until recently untouched by the palm oil industry12 brands were sourcing from at least 20 of the palm oil groups: Colgate-Palmolive, General Mills, Hershey, Kellogg’s, Kraft Heinz, L’Oreal, Mars, Mondelez, Nestlé, PepsiCo, Reckitt Benckiser and UnileverWilmar, the world’s largest palm oil trader, was buying from 18 of the palm oil groupsThe investigation exposes the total failure of Wilmar International, the world’s largest palm oil trader, to break its links to rainforest destruction"
+        },
+        {
+          "text": "Palm oil impacts on environment, people and climateHalf of the Bornean orangutan population has been wiped out in just 16 years, with habitat destruction by the palm oil industry a leading driver"
+        },
+        {
+          "text": "In 2013, Greenpeace International revealed that Wilmar and its suppliers were responsible for deforestation, illegal clearance, fires on peatland and extensive clearance of tiger habitat"
+        },
+        {
+          "text": "In addition to deforestation, the 25 individual cases in the report include evidence of exploitation and social conflicts, illegal deforestation, development without permits, plantation development in areas zoned for protection and forest fires linked to land clearance"
+        },
+        {
+          "text": "It is also the most comprehensive assessment of deforestation in Papua, Indonesia"
+        },
+        {
+          "text": "The plantation sector – palm oil and pulp – is the single largest driver of deforestation in Indonesia"
+        },
+        {
+          "text": "More than three-quarters of Tesso Nilo national park, home to tigers, orangutans and elephants, has been converted into illegal palm oil plantations"
+        },
+        {
+          "text": "Silva Rimba Lestari of Djarum Group, had cleared nearly 32,000 hectares of natural forest in violation of APP’s FCP"
+        },
+        {
+          "text": "Prior to this, SMG/APP and its pulpwood suppliers had a history of almost 30 years of deforestation, destruction of wildlife habitat, peat drainage and conflicts with local communities related to the acquisition of land for wood harvesting and pulpwood plantation development in Sumatra and Kalimantan, Indonesia"
+        },
+        {
+          "text": "FSC’s decision followed a series of recent revelations about a lack of commitment by SMG/APP to disclose all their associated companies to hide their continuing involvement in deforestation and their total environmental and social footprint which need to be remedied"
+        },
+        {
+          "text": "If their deforestation continues, the survival of orangutans will be impossible"
+        },
+        {
+          "text": "The palm oil industry is primarily responsible for the destruction of the forests in Indonesia"
+        },
+        {
+          "text": "Unilever, Nestle, Colgate-Palmolive and Mondelez have to stop funding the destruction of the jungle to produce food and other daily consumer products"
+        },
+        {
+          "text": "Now its CEO of 12 years, Indra Nooyi, is stepping down -- and it’s our chance to push her to do the right thing and clear her legacy of the illegal rainforest destruction and worker abuse happening on palm oil plantations"
+        },
+        {
+          "text": "Sign the petition telling Pepsi’s departing CEO Indra Nooyi to cut ties with IndoFood and fix Pepsi’s palm oil policy for good"
+        },
+        {
+          "text": "RSPO rules on community complaint against Wilmar unit"
+        },
+        {
+          "text": " The Roundtable on Sustainable Palm Oil (RSPO) has ruled that a unit of Singapore-listed palm oil giant Wilmar had violated indigenous community rights in Indonesia’s West Sumatra region, signalling progress in a two-year long dispute between the company and rights activists"
+        },
+        {
+          "text": " Based on the advice of an independent consultant, RSPO’s Complaints Panel—a group of NGO and finance sector representatives—recommended that the disputed land should be re-measured for development approval with better community participation, and that PT PHP1 should renegotiate the terms for planting oil palm on the Kapa community land"
+        },
+        {
+          "text": "Responding to the ruling Wilmar said that it “respects the decisions of the RSPO complaints panel and will act accordingly"
+        },
+        {
+          "text": "A palm oil supplier to Mars, Nestlé, PepsiCo, and Unilever is destroying rainforests in Papua, Indonesia, a new investigation by Greenpeace International has revealed"
+        },
+        {
+          "text": " The petition claims that Unilever’s failed trial remediation of the environment in November 2017 ended up mobilising more mercury into the environment that it recovered, because it deployed a substandard process"
+        },
+        {
+          "text": " Colgate-Palmolive, General Mills, Hershey, Kellogg's, Kraft Heinz, L' Oreal, Mars, Mondelez, Nestlé, Nestlé, PepsiCo, PepsiCo, Reckitt Benckiser and Unilever have purchased palm oil from at least 20 of these producers"
+        },
+        {
+          "text": " The report also reveals how twenty-five major palm oil producers are responsible not only for deforestation, the illegal expansion of its plantations and fires, but also of exploitation of workers"
+        },
+        {
+          "text": " The refinery, located on the Indonesian island of Sulawesi, works on the palm oil of three of the producers mentioned in the report \"Final Countdown\" because they are guilty of the destruction of the rainforests on the Indonesian islands of Kalimantan and Papua"
+        },
+        {
+          "text": " In 2013, Greenpeace International revealed that Wilmar-giant business agro-giant and its suppliers were responsible for deforestation, fires in the torpedoes and massive destruction of the Sumatra tiger habitat"
+        },
+        {
+          "text": " In 2013, Greenpeace International revealed that Wilmar and its suppliers were responsible for deforestation, illegal clearance, fires on peatland and extensive clearance of tiger habitat"
+        },
+        {
+          "text": " FSC’s decision followed a series of recent revelations about a lack of commitment by SMG/APP to disclose all their associated companies to hide their continuing involvement in deforestation and their total environmental and social footprint which need to be remedied"
+        },
+        {
+          "text": " And the big traditional oil brands of palm oil have been stocked from these producers who are deforesting: Colgate-Palmolive, General Mills, Hershey, Kellogg's, Kraft Heinz, L' Oreal, Mars, Mondelez (Oreo), Nestle, PepsiCo, Reckitt Benckiser and Unilever"
+        },
+        {
+          "text": " Prior to this, SMG/APP and its pulpwood suppliers had a history of almost 30 years of deforestation, destruction of wildlife habitat, peat drainage and conflicts with local communities related to the acquisition of land for wood harvesting and pulpwood plantation development in Sumatra and Kalimantan, Indonesia"
+        },
+        {
+          "text": " If their deforestation continues, the survival of orangutans will be impossible"
+        },
+        {
+          "text": " It calls on these companies not to send their marks with the destruction of the forests of Indonesia"
+        },
+        {
+          "text": " Unilever, Nestle, Colgate-Palmolive and Mondelez have to stop funding the destruction of the jungle to produce food and other daily consumer products"
+        },
+        {
+          "text": " Together, we can denounce the destruction of the RSPO and jeopardise its reputation so that the certification body does not maintain the status quo and does not neglect the flagrant violations on the part of Indofood"
+        },
+        {
+          "text": " This decision will be a crucial step in allowing Nestlé and Pepsi to clean up their supply chains and finally reduce deforestation and abusers"
+        },
+        {
+          "text": "Sign the petition to demand that the RSPO suspend the Nestlé's trading partner, Indofood"
+        },
+        {
+          "text": " Wilmar also has a history of evasion of his responsibilities for environmental and human rights abuses through the sale of his most controversial concessions to Gama"
+        },
+        {
+          "text": " A new research by Greenpeace International has revealed that Wilmar International, the world's largest palm oil distributor and supplier of international brands such as Nestle, Unilever or Procter & Gamble, continues to destroy Indonesia's rainforest almost five years after it was committed to halting deforestation"
+        },
+        {
+          "text": " Pepsi profits from palm oil destruction through its Joint Venture Partnership with IndoFood"
+        },
+        {
+          "text": " Now its CEO of 12 years, Indra Nooyi, is stepping down -- and it’s our chance to push her to do the right thing and clear her legacy of the illegal rainforest destruction and worker abuse happening on palm oil plantations"
+        },
+        {
+          "text": " Can you sign the petition to push Indra Nooyi to make her final act count for the planet and the people?"
+        },
+        {
+          "text": " Five years ago, the company promised to sell palm oil free of deforestation, but Greenpeace says it has consistently failed to comply"
+        },
+        {
+          "text": " Wilmar must immediately cut off all suppliers of palm oil that can't prove they are not destroying the rainforests, \" says Kiki Taufik, head of Greenpeace's Southeast Asian forest campaign"
+        },
+        {
+          "text": " Wilmar's general manager responsible for the palm oil trade in Indonesia, Darwin Indigo, is the son of Gama's co-founder, Ganda, and also manages at least one company in Gama"
+        },
+        {
+          "text": " Last month, Greenpeace broke ties with Asia Pulp and Paper, Indonesia's largest paper company, after deforestation was detected in two APP-related concessions and its parent company, the Sinar Mas"
+        },
+        {
+          "text": " Activists also targeted the various Mondelez seats around the world to denounce the \" taste deforestation of Oreo cookies, as did local Greenpeace groups in the supermarkets of 26 cities in France"
+        },
+        {
+          "text": " Wilmar will use high resolution satellite image monitoring to check whether or not there is deforestation"
+        },
+        {
+          "text": " The co-founder of the world’s largest palm oil trading company Wilmar International, Martua Sitorus, and Hendri Saksti, Wilmar’s country head for Indonesia, have resigned"
+        },
+        {
+          "text": " “For years, Wilmar and Gama have worked together, with Gama doing the dirty work so Wilmar’s hands stay clean"
+        },
+        {
+          "text": "Two executives of palm oil trader Wilmar International have stepped down after a report by Greenpeace revealed that the company is still linked to deforestation"
+        },
+        {
+          "text": "“Our investigation has exposed Wilmar’s dirty secret,” said Kiki Taufik, the global head of Greenpeace Southeast Asia’s Indonesian forests campaign"
+        },
+        {
+          "text": " Furthermore, analysis of trade data revealed that Wilmar continued to trade palm oil from Gama despite the knowledge that the supplier had been violating Wilmar’s NDPE policy, Greenpeace said in its press release"
+        },
+        {
+          "text": "In its press release, Greenpeace claims that Wilmar had sold off its most controversial plantations to Gama in recent years in order to evade responsibility for environmental degradation and human rights violations"
+        },
+        {
+          "text": " Wilmar reaffirms its no deforestation commitments, a spokesperson said"
+        },
+        {
+          "text": "They also emphasised that three plantation companies that Greenpeace reported were linked to deforestation – PT Graha Agro Nusantara, PT Agrinusa Persada Mulia and PT Agriprima Cipta Persada – are not part of Wilmar’s supply chain"
+        },
+        {
+          "text": " A supplier of palm oil with links to major brands including Unilever, Nestle, PepsiCo and Mars, has been destroying rainforests in a protected area of Papua, Indonesia, a Greenpeace investigation claims"
+        },
+        {
+          "text": " Indofood is guilty of worker exploitation, rainforest destruction and habitat loss, and now it has no “sustainability” claims to hide behind"
+        },
+        {
+          "text": "Greenpeace investigation claims palm oil supplier to major brands behind further deforestation"
+        },
+        {
+          "text": " The plantation sector - palm oil and pulp - is the single largest driver of deforestation in Indonesia"
+        },
+        {
+          "text": " PepsiCo, Nestle and Wilmar must bring their business partner into compliance with Indonesian law and sustainability norms of deforestation-free development or exit their business relationships"
+        },
+        {
+          "text": "”  The Salim Group companies are marred by ongoing conflict"
+        },
+        {
+          "text": "So what will help end the ongoing land grab claims and forest fires that engulfed south-east Asia towards the end of last year? Hurowitz believes that governments must step up and take deforestation seriously, although this doesn’t give companies carte blanche to carry on business as usual"
+        },
+        {
+          "text": "Tell Pepsi: Stop disappointing us and cut ALL your ties with toxic palm oil company Indofood!Indofood’s abuses were always an open secret"
+        },
+        {
+          "text": " On February 28, 2019, the RSPO suspended palm oil producer PT Salim Ivomas Pratama Tbk (SIMP), a subsidiary of Indofood’s palm oil unit IndoAgri, for not complying with a corrective action plan after it was found in violation of both RSPO standards and Indonesia’s labour laws"
+        },
+        {
+          "text": " But in 2016, our partners at Rainforest Action Network exposed Indofood and filed an official complaint with the RSPO"
+        },
+        {
+          "text": "“Disappointed”, Pepsi?! Indofood isn’t a misbehaving toddler -- it’s a corporation that destroys rainforests, mistreats female staff, uses illegal child labour, and exposes its workers to hazardous pesticides"
+        },
+        {
+          "text": "Please sign the petition and help force Pepsi to terminate its business partnership with Indofood once and for all!We know our people-powered campaigning can push big brands into action"
+        },
+        {
+          "text": "Let's tell Pepsi's CEO there’s no excuse for inaction on exploitation and rainforest destruction -- it's time to drop Indofood"
+        },
+        {
+          "text": "No more RSPO certification = no more excuses: it’s time to cut ties with Indofood!Indofood is guilty of worker exploitation, rainforest destruction, and habitat loss and the Roundtable on Sustainable Palm Oil (RSPO) has terminated its sustainability certification"
+        },
+        {
+          "text": "The Salim Group runs First Pacific, which owns a majority stake in PT Indofood Sukses Makmur Tbk (Indofood), Indonesia’s largest food company"
+        },
+        {
+          "text": "IndoAgri has been the subject of ongoing RSPO complaints for child labor, poor labor practices, and producing palm oil linked to deforestation"
+        },
+        {
+          "text": " These companies must immediately sort through their supply chain and break off commercial ties with producers who refuse to comply with zero deforestation commitments"
+        },
+        {
+          "text": "”Unilever, Kellogg and Mars have each pledged to purge their supply chains of rainforest destruction, peatland conversion and human rights abuses, though none can yet claim to have traced its palm oil supply to the plantation level, a prerequisite for achieving the ambitious goals"
+        },
+        {
+          "text": " Three of IOI’s subsidiaries are alleged to have violated a raft of RSPO standards meant to prevent rainforest destruction and social conflicts, and to have broken the law"
+        },
+        {
+          "text": " Currently, approximately 10,000 hectares of peat forest have been cleared illegally for future palm oil plantations, despite Indonesian regulations and company commitments against further peat development and deforestation"
+        },
+        {
+          "text": " “Meanwhile, The Salim Group’s financiers and business partners––like PepsiCo––are complicit in the illegal deforestation, as they continue to do business with Salim without issue"
+        },
+        {
+          "text": "“Brands and traders tend to hide behind supply chain complexities,” she said, “but consumers need to know whether or not the palm oil they use is connected to the destruction of rainforests"
+        },
+        {
+          "text": "“If more immediate action is not taken to enforce ‘no deforestation’ policies, these brands will be remembered as the corporate giants responsible for the destruction of the last place on earth where Sumatran elephants, orangutans, rhinos and tigers roamed side by side,” says the study by Rainforest Action Network (RAN)"
+        },
+        {
+          "text": "Using satellite data, photographic evidence and GPS coordinates, the research builds on evidence gathered earlier this year to show ongoing illegal forest clearances across swathes of the 2"
+        },
+        {
+          "text": "Pepsico, Unilever and Nestlé have been accused of complicity in the destruction of Sumatra’s last tract of rainforest shared by elephants, orangutans, rhinos, and tigers together in one ecosystem"
+        },
+        {
+          "text": " At least 35 elephants were killed in Leuser between 2012-2015, and human-animal conflicts are fast increasing as palm plantations fragment animal habitats"
+        },
+        {
+          "text": "Malaysia’s IOI was suspended from the RSPO over violations of the roundtable’s sustainability standards in Borneo"
+        },
+        {
+          "text": "“But after six years of having every chance in the world to address these grievances in some other fashion, and meanwhile continuing to pile up serious deforestation and labor rights violations, I would hope RSPO takes IOI’s appeal as seriously as IOI has taken any one of its own promises to do better"
+        },
+        {
+          "text": "The Salim Group was first made aware of the ongoing deforestation in February 2016, but failed to intervene despite repeated government instructions to halt peat forest development"
+        },
+        {
+          "text": "New Report Uncovers One of the Largest Cases of Illegal Rainforest Clearance in Borneo for Palm Oil DevelopmentMajor international banks and brands connected to company controlled by notorious Indonesian business tycoon, knowingly clear-cutting tropical rainforests"
+        },
+        {
+          "text": "“Billions of dollars in corporate loans, and finance from bonds and shares, have all flowed to the Salim Group companies despite Mr Salim’s connection to ongoing illegal deforestation,” said Vemund Olsen from Rainforest Foundation Norway"
+        },
+        {
+          "text": "  The commitment, to be fully implemented by December 2015, was welcomed by groups who had tracked and criticised Wilmar for its environmental destruction and human rights abuses"
+        },
+        {
+          "text": " Major banks, including Citibank and Rabobank, are connected to the illegal deforestation through their financing of the Salim Group, despite having policies against it"
+        },
+        {
+          "text": "European, Japanese taxpayers unwittingly underwrite continuedforest and tiger habitat destruction"
+        },
+        {
+          "text": " San Francisco, CA – A new report exposes one of the largest cases in recent years of ongoing, illegal clearance of tropical rainforests in Borneo"
+        },
+        {
+          "text": "Wilmar gave itself, its subsidiaries, and its third party suppliers two years to reach its goal: a serious-sounding commitment to dealing with the land-grabbing cases, human rights abuses, forest destruction and climate impacts that have dogged its operations"
+        },
+        {
+          "text": "Legal challenge and community actionCases like these - of environmental destruction, and human rights violations - formed the basis of a federal lawsuit from the Nigeria-based NGO Rainforest Resource & Development Centre in 2013"
+        },
+        {
+          "text": " Wilmar has not changed its ways of working - it is high time to bring the company to account for its human rights violations, ameliorate its environmental impacts and pay compensation to the hundreds of victims facing eviction and dispossession"
+        },
+        {
+          "text": " Green groups have also reported labour and human rights abuses on IOI Group-owned plantations"
+        },
+        {
+          "text": "However, campaigners and industry experts say the company is yet to prove that its suppliers are not responsible for clearing forests or abusing human rights"
+        },
+        {
+          "text": "In December 2013, following pressure from its customers and investors, the palm oil giant Wilmar committed to delinking its entire supply chain, including joint ventures and third-party suppliers, from deforestation, peatland development, and human rights abuses"
+        },
+        {
+          "text": "In 2007, FPP assisted two communities in West Kalimantan to make formal complaints to the RSPO and to the International Finance Corporation about Wilmar's operations affecting their customary lands"
+        },
+        {
+          "text": " Two years on however, despite its promises, Wilmar has failed to resolve many long standing conflicts between its operations and impacted communities"
+        },
+        {
+          "text": " But no company is providing comprehensive information about whether [its suppliers] are clearing forests or abusing human rights – the metrics that really matter"
+        },
+        {
+          "text": "Hurowitz adds that Wilmar and other companies need to be absolutely clear to their suppliers that if they engage in deforestation or human rights abuses, they will lose access to global markets"
+        },
+        {
+          "text": "The key sticking point according to NGOs such as Greenpeace and the Forest Peoples Programme is that Wilmar, which controls 45% of global palm oil trade, cannot prove that its suppliers are not responsible for ongoing deforestation"
+        },
+        {
+          "text": "Singapore-headquartered Wilmar says it has made “significant progress” on a commitment it made two years ago to eliminate deforestation, exploitation and peatland development from its supply chain"
+        },
+        {
+          "text": "” Even Wilmar’s chief sustainability officer Jeremy Goon points out that “much remains to be done, including the development of a clear means to measure and track the progress of sustainability commitments to assess its effectiveness in reducing actual deforestation”"
+        },
+        {
+          "text": "Although “agreement on releasing this [information] required endorsement and support from our key suppliers and third party NGO partners,” Nestlé publishes a range of data points on its efforts to tackle deforestation across five of its key commodities  "
+        },
+        {
+          "text": " “The next step means putting this commitment into practice: GAR must now ensure that all the palm oil it refines and trades is not contributing to deforestation, climate change and social conflicts"
+        },
+        {
+          "text": " The objective is to genuinely drive forward discussion and progress in removing deforestation from company supply chains"
+        },
+        {
+          "text": " Can you sign the petition to demand that Procter & Gamble, Nestlé, Mondelez, and PepsiCo end human rights abuse in their supply chains?Tell Procter & Gamble & big brands to stop doing business with FGV until workers’ rights are respected on palm oil plantations"
+        },
+        {
+          "text": " Over 240,000 of you helped push the RSPO to sanction Pepsi’s business partner Indofood over its labour law abuses"
+        },
+        {
+          "text": "The civil lawsuit, brought in California federal court by seven Cambodians employed outside the US, accused the four companies of violating the US Trafficking Victims Protection Act and knowingly profiting from the villagers' working conditions"
+        },
+        {
+          "text": "Among other complaints in the filing, the defendants also argue that the accusation that two US-based companies should be held accountable because they knowingly benefitted from alleged human trafficking is vague and can be applied to virtually any US company"
+        },
+        {
+          "text": "    One of PepsiCo’s joint venture partners is Indofood, Indonesia’s largest food company and one of the biggest plantation companies"
+        },
+        {
+          "text": " PepsiCo has committed to purge its palm oil supply chain of deforestation, peatlands conversion and rights abuses, but the commitment does not apply to joint venture partners"
+        },
+        {
+          "text": "The Rainforest Action Network says the inadequate scope of PepsiCo’s new pledge to eliminate deforestation, peatlands conversion and rights abuses from its palm oil supply chain constitutes a “loophole the size of Indonesia"
+        },
+        {
+          "text": " The report was conducted by Aidenvironment and chronicles numerous land conflicts with Indonesian communities and acts of environmental destruction the company has been involved in"
+        },
+        {
+          "text": "”Asked subsequently whether that means PepsiCo is not legally able to require Indofood to use deforestation-free palm oil for PepsiCo branded products, Gonzalez did not respond"
+        },
+        {
+          "text": " Nor did she answer a question of whether PepsiCo going forward would license out its brand to a company that hasn’t committed to using deforestation-free palm oil going forward"
+        },
+        {
+          "text": "Green groups are pressuring PepsiCo to stop letting joint venture partners such as Indonesia’s biggest food company use its brand for products made with so-called conflict palm oil"
+        },
+        {
+          "text": "Some palm oil plantations have long been dogged by complaints of deforestation and at times, human rights abuses"
+        },
+        {
+          "text": "Cargill’s decision to suspend business with REPSA is rare because it’s based not only on environmental concerns, but human rights issues, said Gemma Tillack, agribusiness campaign director of Rainforest Action Network, which has questioned the rigor of Cargill’s palm oil policies"
+        },
+        {
+          "text": "Two leading global brands, Walmart and Unilever, recently decided to use the power of supply chains to tackle the persistent problem of tropical deforestation – and their announcement couldn’t have come at a better time"
+        },
+        {
+          "text": " Another report by Global Forest Watch said tropical deforestation now ranks third in carbon dioxide-equivalent emissions, behind the United States and China"
+        },
+        {
+          "text": " Rather than seeking change farm-by-farm, this so-called jurisdictional approach lets companies work alongside governments to create entire regions that make progress on deforestation with clear metrics"
+        },
+        {
+          "text": "Beginning in January 2019, Wilmar International will freeze purchases from suppliers found to be in violation of its sustainability policy, which bars plantation companies from clearing rainforests and peatlands, grabbing land from rural communities and mistreating workers"
+        },
+        {
+          "text": " Because the evidence of the nine of Wilmar's Seriousness will be in checking whether, in the event of violations of its policy, the company will apply all the way in the script"
+        },
+        {
+          "text": "”Companies without commitments must learn lessons from the leaders in the sector, while leading companies must ensure their commitments are being implemented to ensure that further deforestation does not occur on the ground"
+        },
+        {
+          "text": " And alert to the depletion of the planet's natural resources"
+        },
+        {
+          "text": "Companies need to develop time-bound implementation plans that lay out a detailed roadmap of the steps in executing their deforestation commitments and provide a clear framework for reporting on progress"
+        },
+        {
+          "text": "Companies should be making zero deforestation commitments, and these should include explicit commitments not to produce or buy commodities grown on cleared High Carbon Stock (HCS) forests and /or peatlands"
+        },
+        {
+          "text": "Companies must report on progress towards implementationWhile having a commitment is an important step on the pathway to zero deforestation, commitments must also be implemented"
+        },
+        {
+          "text": " Among the signatories, organizations representing companies such as Coca-Cola, Iberdrola and Unilever, representatives of municipi such as Gent (Belgium), institutional investors on climate change and associations such as Legenvironment"
+        }
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "entity": "water",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Abuse",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Illegal",
+          "synonyms": [
+            "bribery",
+            "infringes",
+            "breaching",
+            "unauthorised",
+            "violates",
+            "unauthorized",
+            "illicit",
+            "unlawfully",
+            "violate",
+            "complaints",
+            "illegally",
+            "infringement",
+            "violated",
+            "infringements",
+            "unlawful",
+            "conflicts",
+            "disputes",
+            "violating",
+            "abuses",
+            "violations",
+            "petition",
+            "conflict",
+            "dispute",
+            "complaint",
+            "dirty",
+            "violation",
+            "Fines",
+            "briberies",
+            "corruption",
+            "Abuse",
+            "indigenous rights"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "Deforestation",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "deforestation",
+          "synonyms": [
+            "environmental concerns",
+            "environmental crisis",
+            "environmental impact",
+            "Clearing",
+            "destructing biodiversity",
+            "destructing rainforest",
+            "Rainforest destruction",
+            "depletion",
+            "devastations",
+            "destructions",
+            "devastation of the environment",
+            "damaging the environment",
+            "destroying habitat",
+            "devastating the environment",
+            "environmental devastation",
+            "environmental disaster",
+            "destruction",
+            "environmental damage",
+            "damage environment"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "Palm_oil",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "controversial palm oil",
+          "synonyms": [
+            "palm oil expansion",
+            "palm oil concessions",
+            "conflict palm oil",
+            "Expansion of oil palm",
+            "palm oil"
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "api_version": {
+      "major_version": "v1",
+      "minor_version": "2018-09-20"
+    }
+  },
+  "description": "",
+  "dialog_nodes": [
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "$Palm_oil entity detected: \"<? input.text ?>\""
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_21_1545994389748",
+      "metadata": {},
+      "event_name": "filled",
+      "dialog_node": "handler_26_1545994433537",
+      "previous_sibling": "handler_22_1545994389748"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_21_1545994389748",
+      "context": {
+        "Palm_oil": "@Palm_oil"
+      },
+      "metadata": {},
+      "conditions": "@Palm_oil",
+      "event_name": "input",
+      "dialog_node": "handler_22_1545994389748",
+      "previous_sibling": "handler_23_1545994389748"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_21_1545994389748",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_23_1545994389748"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1545993377684",
+      "context": {
+        "Abuse": "@Abuse"
+      },
+      "metadata": {},
+      "conditions": "@Abuse",
+      "event_name": "input",
+      "dialog_node": "handler_6_1545993377684",
+      "previous_sibling": "handler_7_1545993377684"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "$Abuse entity detected: \"<? input.text ?>\""
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_5_1545993377684",
+      "metadata": {},
+      "event_name": "filled",
+      "dialog_node": "handler_10_1545993441794",
+      "previous_sibling": "handler_6_1545993377684"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1545993377684",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_7_1545993377684"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1545992540885",
+      "metadata": {},
+      "variable": "$Abuse",
+      "dialog_node": "slot_5_1545993377684",
+      "previous_sibling": "slot_21_1545994389748"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1545992540885",
+      "metadata": {},
+      "variable": "$Palm_oil",
+      "dialog_node": "slot_21_1545994389748",
+      "previous_sibling": "slot_2_1545993341184"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1545992540885",
+      "metadata": {},
+      "variable": "$Deforestation",
+      "dialog_node": "slot_2_1545993341184"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "$Deforestation entity detected: \"<? input.text ?>\""
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_2_1545993341184",
+      "metadata": {},
+      "event_name": "filled",
+      "dialog_node": "handler_8_1545993402789",
+      "previous_sibling": "handler_3_1545993341184"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1545993341184",
+      "context": {
+        "Deforestation": "@Deforestation"
+      },
+      "metadata": {},
+      "conditions": "@Deforestation",
+      "event_name": "input",
+      "dialog_node": "handler_3_1545993341184",
+      "previous_sibling": "handler_4_1545993341184"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1545993341184",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_4_1545993341184"
+    },
+    {
+      "type": "standard",
+      "title": "OuiMANA_NLC",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "OuiMANA"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1548945535622"
+      },
+      "conditions": "#Oui_MANA",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1546262783568",
+      "previous_sibling": "node_42_1545995547154"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Palm oil entity detected: <? input.text ?>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_1_1546262783568"
+      },
+      "conditions": "@Palm_oil",
+      "dialog_node": "node_41_1545995517666",
+      "previous_sibling": "node_40_1545995367525"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Alerting entity detected: <? input.text ?>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_1_1546262783568"
+      },
+      "conditions": "@Abuse",
+      "dialog_node": "node_42_1545995547154",
+      "previous_sibling": "node_41_1545995517666"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No redhibitory word detected"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_1_1546510156965"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Alerting entity detected: <? input.text ?>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_1_1546262783568"
+      },
+      "conditions": "@Deforestation",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_40_1545995367525",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_28_1545994545634"
+    },
+    {
+      "type": "standard",
+      "title": "NonMANA_NLC",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "NonMANA"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1548945535622"
+      },
+      "conditions": "#Non_MANA",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1546510156965",
+      "previous_sibling": "node_1_1546262783568"
+    },
+    {
+      "type": "standard",
+      "title": "check_intention",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_1_1546262783568"
+      },
+      "digress_in": "does_not_return",
+      "dialog_node": "node_4_1548945535622",
+      "previous_sibling": "Anything else"
+    },
+    {
+      "type": "frame",
+      "title": "Deforestation",
+      "output": {
+        "generic": []
+      },
+      "metadata": {
+        "fallback": "leave"
+      },
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1545992540885",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_4_1548945535622",
+      "digress_out_slots": "allow_all"
+    },
+    {
+      "type": "standard",
+      "title": "Connection_bot_on",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi, I am MANA orchestrator powered by Watson"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "welcome",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_28_1545994545634"
+    }
+  ],
+  "workspace_id": "6d7f9feb-3d05-4c0e-82b5-6c509638648c",
+  "counterexamples": [],
+  "system_settings": {
+    "tooling": {
+      "store_generic_responses": true
+    }
+  },
+  "learning_opt_out": false,
+  "status": "Available"
+}

@@ -1,0 +1,8 @@
+WNLU_VERSION=2020-05-05
+WNLU_URL=<NLU_URL>
+WA_VERSION=2020-05-05
+WA_URL=https://api.eu-de.assistant.watson.cloud.ibm.com/instances/87555276-9b1d-4f45-b63c-04192c1a2fbd
+WA_WORKSPACE_ID=3f7d6e94-dad7-4546-81f0-1abc4111fc78
+WT_VERSION=2020-05-05
+WT_URL=https://api.eu-de.language-translator.watson.cloud.ibm.com/instances/93b1a794-1126-4fdc-b756-82221bf58e39
+WA_USER_ID=mana-user
