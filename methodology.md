@@ -1,6 +1,6 @@
 # MANA-Vox methodology for the selection of credible sources
 
-<img src="https://github.com/alexandreguedj/mana-vox/blob/main/assets/logo-mana.svg" width="150px">
+<img src="https://github.com/mana-vox/mana-vox/blob/main/assets/logo-mana.svg" width="150px">
 
 
 **MANA-Vox** employs a comprehensive methodology for identifying and selecting credible sources to unveil the environmental damage caused by companies. This methodology relies on a network of information sources and a sophisticated algorithm. Initially designed to assess the impact of companies on forests, the methodology is now adaptable to address various environmental issues, including freshwater, oceans, biodiversity, and climate change.

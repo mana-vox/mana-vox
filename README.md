@@ -1,6 +1,6 @@
 # Documentation on the Software MANA-Vox Developed by MANA Community (2022)
 
-<img src="https://github.com/alexandreguedj/mana-vox/blob/main/assets/logo-mana.svg" width="150px">
+<img src="https://github.com/mana-vox/mana-vox/blob/main/assets/logo-mana.svg" width="150px">
 
 # Table of contents
 
@@ -41,7 +41,7 @@ The current algorithm architecture was developed by the Garage (IBM subsidiary) 
 
 The entire pipeline is currently written in Python and hosted on IBMCloud.
 
-<img src="https://github.com/alexandreguedj/mana-vox/blob/main/assets/Architecture-Mana.png">
+<img src="https://github.com/mana-vox/mana-vox/blob/main/assets/Architecture-Mana.png">
 
 <p align="center">*figure 1: mana-vox architecture*</p>
 
@@ -55,7 +55,7 @@ A second step is to merge and annotate newly found sources that are similar to e
 
 The occurrences of the entities' mentions from one of the references are then numbered: after 3 occurrences, the status of the source switches from ENTITY to SOURCE CANDIDATE, and it will appear in the list of sources that need human validation concerning its credibility. After 10 occurrences from sources appearing in at least two different reference groups, the source will be flagged as 'Trusted'. Only when a source is both trusted and found credible by a human review will its status become SOURCE, meaning it is now a **credible MANA source** whose content will be listened to and analyzed in Module 2. The above steps are summarized in Figure 2.
 
-<img src="https://github.com/alexandreguedj/mana-vox/blob/main/assets/source-credible.png">
+<img src="https://github.com/mana-vox/mana-vox/blob/main/assets/source-credible.png">
 
 <p align="center">*figure 2: process of making a source credible*</p>
 
@@ -66,7 +66,7 @@ Other than with this module, sources can also be identified manually through a t
 
 The second part of the algorithm is tasked with the classification of the content published by the monitored sources. It can be separated into submodules, executed one after the others, as shown in Figure 3.
 
-<img src="https://github.com/alexandreguedj/mana-vox/blob/main/assets/analyzing-new-content.png">
+<img src="https://github.com/mana-vox/mana-vox/blob/main/assets/analyzing-new-content.png">
 
 <p align="center">*figure 3: process of analyzing new content*</p>
 
@@ -176,7 +176,7 @@ ORDER BY time_created DESC
 
 The connections between the different tables are shown in Figure 4. Solid lines connect two tables with a shared key, and dashed lines connect one table (black circle) containing an entry equal to the key of the other table (white circle).
 
-<img src="https://github.com/alexandreguedj/mana-vox/blob/main/assets/ER-Diagram.png">
+<img src="https://github.com/mana-vox/mana-vox/blob/main/assets/ER-Diagram.png">
 
 <p align="center">*figure 4: database ER diagram*</p>
 
@@ -207,7 +207,7 @@ An API interface was implemented with FastAPI, with the following endpoints:
   - **Input**: excel file with two columns
     - “Company_Name”: list of company names to be added
     - “Synonyms”: potential synonyms of the company added, separated with a comma
-    <img src="https://github.com/alexandreguedj/mana-vox/blob/main/assets/companies-post.png">
+    <img src="https://github.com/mana-vox/mana-vox/blob/main/assets/companies-post.png">
 - `/companies/{name} [DELETE]`
   - **Description**: Deletes a specific company from the list
   - **Input**: company name (string)
@@ -222,7 +222,7 @@ An API interface was implemented with FastAPI, with the following endpoints:
     - “Web”: website URL if any - this entry can be empty
     - “Trusted”: TRUE if the source is trusted, FALSE otherwise
     - “Tags”: any additional tags that the user wants to add - for example the name of the person that identified the source
-    <img src="https://github.com/alexandreguedj/mana-vox/blob/main/assets/source-post.png">
+    <img src="https://github.com/mana-vox/mana-vox/blob/main/assets/source-post.png">
   - **Note**: it is best to add the sources in small batches to avoid starting from scratch if an error occurs.
 
 - `/entities/{id1}/merge/{id2} [POST]`
