@@ -29,23 +29,23 @@
 
 ## I. Context
 
-The aim of the non-profit organization **MANA Community**, through its **MANA-Vox** algorithm, is to gather information on the environmental impacts of companies. Diverse information is not available in one place, and MANA seeks to gather information from the perspective of civil society, other than that of the company itself. **MANA-Vox** therefore searches the Internet for negative information about companies that are engaged in forest-damaging activities, known as incidents. An incident can be an impact, a mobilization, or a sanction. MANA focuses on impacts, trying to publicize them as soon as they occur or at least sooner.
+The primary goal of the non-profit organization **MANA Community** and its **MANA-Vox algorithm** is to compile comprehensive data regarding companies' environmental impacts. Given the dispersed nature of available information, MANA endeavors to gather insights from the perspective of civil society, offering a perspective independent of the companies themselves. **MANA-Vox** systematically scours the internet for adverse information related to companies involved in activities that harm forests, termed as incidents. These incidents encompass impacts, mobilizations, or sanctions. **MANA-Vox** prioritizes disseminating information about impacts promptly upon their occurrence or as soon as feasible.
 
-To ensure that the information gathered by the algorithm is credible, it has been programmed to search only websites and Twitter accounts of credible sources. It then displays news from these credible sources on the negative environmental impacts on forests caused by a selected group of companies, primarily in a group of priority countries.
+For credibility assurance, the algorithm is meticulously programmed to source data solely from reputable websites and Twitter accounts. It filters and displays news from these credible sources concerning negative environmental impacts on forests attributed to a select group of companies, primarily within designated priority countries.
 
-The **MANA-Vox** algorithm aims to be open-sourced so that it could be used by any non-commercial third party that needs it.
+The ambition of the **MANA-Vox algorithm** is to be open-sourced, allowing non-commercial third parties in need to utilize its capabilities
 
 ## II. Algorithm Architecture
 
-The current algorithm architecture was developed by the Garage (IBM subsidiary) in 2020. It is an update from the previous architecture developed in 2017 by ??? in Swift language for the architecture and Daniel Pouzada (IBM) for the machine learning part (accessible at [https://github.com/dpouzada/Watson_for_MANA](https://github.com/dpouzada/Watson_for_MANA)), using IBM Watson services in Python.
+The current algorithm architecture was developed by the Garage (IBM subsidiary) in 2020. It is an update from the previous architecture developed in 2017 by Aviomex in Swift language for the architecture and Daniel Pouzada for the machine learning part (accessible at [https://github.com/dpouzada/Watson_for_MANA](https://github.com/dpouzada/Watson_for_MANA)), using IBM Watson services in Python.
 
-The entire pipeline is currently written in Python and hosted on IBMCloud.
+The entire pipeline is currently written in Python.
 
 <img src="https://github.com/mana-vox/mana-vox/blob/main/assets/Architecture-Mana.png">
 
 <p align="center">*figure 1: mana-vox architecture*</p>
 
-The algorithm can be separated into two different modules, both executed once per day at 1:00 am and 3:30 am respectively.
+The algorithm can be separated into two different modules, both executed once per day.
 
 ### A. Module 1 - Source Identification
 
