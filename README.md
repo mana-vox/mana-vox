@@ -25,7 +25,7 @@
 
 ## Summary
 
-**MANA-Vox** is an algorithm developed by the not-for-profit organization **MANA Community** to collect information from civil society on the environmental impacts of companies. This documentation is intended for all **MANA-Vox** users, whether to gain a better understanding of it or to utilize it in some way. After a brief explanation of its creation, each step of the algorithm is thoroughly discussed, allowing developers to comprehend why it was designed this way. Users can focus on the "User Access" section to learn how to access or qualify data. The document also lists potential future improvements.
+**MANA-Vox** is an algorithm developed by the not-for-profit organization **MANA Community** to collect information from civil society on the environmental impacts of companies. This documentation is intended for all **MANA-Vox users**, whether to gain a better understanding of it or to utilize it in some way. After a brief explanation of its creation, each step of the algorithm is thoroughly discussed, allowing developers to comprehend why it was designed this way. Users can focus on the "User Access" section to learn how to access or qualify data. The document also lists potential future improvements.
 
 ## I. Context
 
