@@ -29,7 +29,7 @@
 
 ## I. Context
 
-The aim of the non-profit organization **MANA**, through its **MANA-Vox** algorithm, is to gather information on the environmental impacts of companies. Diverse information is not available in one place, and MANA seeks to gather information from the perspective of civil society, other than that of the company itself. **MANA-Vox** therefore searches the Internet for negative information about companies that are engaged in forest-damaging activities, known as incidents. An incident can be an impact, a mobilization, or a sanction. MANA focuses on impacts, trying to publicize them as soon as they occur or at least sooner.
+The aim of the non-profit organization **MANA Community**, through its **MANA-Vox** algorithm, is to gather information on the environmental impacts of companies. Diverse information is not available in one place, and MANA seeks to gather information from the perspective of civil society, other than that of the company itself. **MANA-Vox** therefore searches the Internet for negative information about companies that are engaged in forest-damaging activities, known as incidents. An incident can be an impact, a mobilization, or a sanction. MANA focuses on impacts, trying to publicize them as soon as they occur or at least sooner.
 
 To ensure that the information gathered by the algorithm is credible, it has been programmed to search only websites and Twitter accounts of credible sources. It then displays news from these credible sources on the negative environmental impacts on forests caused by a selected group of companies, primarily in a group of priority countries.
 
