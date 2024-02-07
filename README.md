@@ -60,7 +60,7 @@ The occurrences of the entities' mentions from one of the references are then nu
 <p align="center">*figure 2: process of making a source credible*</p>
 
 During this part, a twitter profile with its description and its location if any is indicated is stored for each source. When the human review is conducted, the qualifier will from this location enter the source's country of origin (and state if it comes from the United States). The final location can also be a continent or "Global", if the source is operating internationally. If the location is situated in an ecoregion (link: Earth's most special places | WWF), be it entirely or partially, the reviewer should also indicate it, as it will then be listened to in priority. The original goal was to have 60% of prioritary sources, and as of the beginning of 2022, 39% of the verified sources are situated in a region of interest, as defined above.
-Other than with this module, sources can also be identified manually through a thoroughly detailed methodology written by Emmanuelle Berenger, accessible at https://mana1.box.com/s/ydxr80jifawrzpos95hkle8gbdwwqz0z (access required), and added through the API (see IV. A).
+Other than with this module, sources can also be identified manually through a thoroughly detailed methodology written by Emmanuelle Berenger and added through the API (see IV. A).
 
 ### B. Module 2 - Content analysis
 
