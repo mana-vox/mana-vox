@@ -94,7 +94,7 @@ A recurring error is the non-translation of content, which occurs when the conne
 
 #### 4. Company detection
 
-A list of 453 companies of interest was compiled from the three reference NGOs - WWF, Greenpeace, Friend of the Earth. Each item is upstream of its classification by the algorithm analyzed to determine whether any of these companies appear in the text. In this version of the algorithm, this analysis is done by comparing each word to each item in the list. To avoid the non-detection of a company, fuzzy matching is used when the number of characters is greater than 10. One of the main reasons for this choice is that the spelling of a company may vary slightly from one language to another. When the length of the company name does not exceed 10 characters, it must appear accurately in the text. This threshold was chosen after a review of errors in existing companies, the report of which is available [here](https://mana1.box.com/s/c9mu6ridtfxv5kxvqbaklk2mc348h99t) - access required.
+A list of 453 companies of interest was compiled from the three reference NGOs - WWF, Greenpeace, Friend of the Earth. Each item is upstream of its classification by the algorithm analyzed to determine whether any of these companies appear in the text. In this version of the algorithm, this analysis is done by comparing each word to each item in the list. To avoid the non-detection of a company, fuzzy matching is used when the number of characters is greater than 10. One of the main reasons for this choice is that the spelling of a company may vary slightly from one language to another. When the length of the company name does not exceed 10 characters, it must appear accurately in the text. This threshold was chosen after a review of errors in existing companies.
 
 Every time a new company is added, a check should be done with the review team afterward to see if this company is often wrongly detected in articles. For example, after a month, check how many mentions there are for each new company, and if one is often mentioned, read some articles related to it to check if there is a problem. If there is, add the name of the company in the list of companies to check more thoroughly (see function “daniel_evaluation,” section “remove problematic companies” of the code). This is directly done for small company names (less than five letters) or small acronyms whose sequence can often be found in other words. Please note that this module is case sensitive. If no company name is detected in the content, the article is labeled with -1, with the status “no_companies”.
 
@@ -104,11 +104,9 @@ After performing all the above-mentioned steps, a final analysis is performed to
 
 ### C. Modifications
 
-The process of modifying existing code or runs of the algorithm is explained very clearly on the GitHub project page: [IBM Cloud MANA-Vox](https://eu-de.git.cloud.ibm.com/mana-vox/mana-v3) - access required.
-
 #### IBM Garage
 
-The IBM Garage technical team in charge of the development in 2020 and 2021 of **MANA-Vox**, and now available for maintenance, is composed of:
+The IBM Garage technical team in charge of the development in 2020 and 2021 of **MANA-Vox**, was composed of:
 
 -   Nicolas Comète: [nicolas.comete@fr.ibm.com](mailto:nicolas.comete@fr.ibm.com)
 -   Lucile Gramusset: [Lucile.Gramusset1@ibm.com](mailto:Lucile.Gramusset1@ibm.com)
@@ -253,8 +251,6 @@ An API interface was implemented with FastAPI, with the following endpoints:
   - **Description**: Extract content from a website
   - **Input**: website URL (string)
 
-These endpoints are accessible and testable with an admin key on the swagger [http://mana-api.eu-de.mybluemix.net/docs](http://mana-api.eu-de.mybluemix.net/docs) (access required).
-
 If the swagger is not working, a quick troubleshooter is to restart the API (with the "ibmcloud cf restart mana-api" command), and the real-time logs can be accessed using the "ibmcloud cf logs mana-api" command. If the problem persists, it is possible to contact the IBM garage technical team whose contacts are given above.
 
 ### B. Backoffice
@@ -287,9 +283,8 @@ On this interface, it would be possible with an account to access:
 
 - the list of companies and their synonyms, not editable here
 - the list of sources, with their location, the potential ecoregion in which they are located if there is one, whether they have been added by the algorithm or manually, and a variable that validates or not this source after qualification
-- the list of contents classified as Oui_MANA by the algorithm and to be qualified by the user, with the link to the content, the source from which it comes, the company involved, the date when the content was retrieved, the result of the qualification to be added, the topic addressed in the text, and the name of the qualifier.
-
-A visual of the back-office design can be found at the link: [https://www.figma.com/file/Vlvtb6YeDdKYG38nDRKhG4/Untitled?node-id=0%3A1](https://www.figma.com/file/Vlvtb6YeDdKYG38nDRKhG4/Untitled?node-id=0%3A1).
+- the list of contents classified as Oui_MANA by the algorithm and to be qualified by the user, with the link to the content, the source from which it comes, the company involved, the date when the content was retrieved, the result of the qualification to be added, the topic addressed in the text, and the name of the qualifier. For a vew of the backoffice : https://www.figma.com/file/Vlvtb6YeDdKYG38nDRKhG4/Untitled?type=design&node-id=0-1&mode=design
+  
 
 Additional features may be added in a later version:
 
@@ -365,7 +360,5 @@ Time required:
 Part-time (much longer development) to full-time (especially if there is team management required).
 
 ## VI. Additional documentation
-
-- MANA-Vox v1 documentation (2017): [Mana - Documentation Technique v2](https://mana1.box.com/s/oq72rerkdcj9qt2xqhkxz5mi7te3h1fz)
-- IBM Cloud services tutorials: [https://mana1.box.com/s/oq72rerkdcj9qt2xqhkxz5mi7te3h1fz](https://mana1.box.com/s/oq72rerkdcj9qt2xqhkxz5mi7te3h1fz)
+please write to : manavox@yahoo.com
 
